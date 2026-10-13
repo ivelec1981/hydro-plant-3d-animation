@@ -1,0 +1,61 @@
+From water to electricity — narration
+
+Voice: en_US-ryan-high (en-US), local Windows speech synthesis, one sentence per file.
+465 words; 187.3 s of speech; 149 words per minute excluding pauses.
+Times measured on the final audio (minutes:seconds.tenths).
+
+Scene 1 — 00:00 to 00:23 — The question and the whole system
+  [00:01.0 – 00:04.5]  How does water in a reservoir become electricity for a city?
+  [00:06.7 – 00:12.2]  The journey combines hydraulic energy, mechanical motion and electrical phenomena.
+  [00:13.8 – 00:19.9]  We will follow it step by step and then see how the plant responds when the needs of the system change.
+
+Scene 2 — 00:23 to 00:51 — Head, flow and conduit
+  [00:24.2 – 00:27.1]  Head and flow determine the energy we can use.
+  [00:29.7 – 00:34.2]  Part of it is lost along the conduit; that is why we use the net head.
+  [00:35.8 – 00:46.8]  In this example, a head of 400 metres and 8.5 cubic metres per second yield about 30 megawatts, after turbine and generator losses.
+
+Scene 3 — 00:51 to 01:21 — The Pelton turbine
+  [00:53.0 – 00:56.9]  At the nozzle, the water pressure becomes a high-speed jet.
+  [00:59.4 – 01:04.8]  The jet strikes the buckets of the Pelton turbine tangentially and changes direction.
+  [01:06.0 – 01:08.2]  That interaction makes the runner turn.
+  [01:12.2 – 01:17.6]  The shaft carries mechanical power to the generator, while the water leaves through the tailrace.
+
+Scene 4 — 01:21 to 01:54 — Inside the generator
+  [01:23.4 – 01:25.3]  The rotor turns with the turbine.
+  [01:26.1 – 01:33.4]  Its electromagnets produce a magnetic field that moves past the windings of the stator, which stays fixed.
+  [01:35.9 – 01:37.9]  That change induces voltage.
+  [01:38.8 – 01:41.6]  The windings are arranged to produce three phases.
+  [01:44.0 – 01:51.6]  In this illustrative machine, 20 poles and 360 revolutions per minute correspond to 60 hertz.
+
+Scene 5 — 01:54 to 02:24 — Synchronisation and voltage step-up
+  [01:55.2 – 02:01.6]  Before connecting the generator, its voltage, frequency and phase angle must match those of the grid.
+  [02:04.3 – 02:07.1]  Once the breaker closes, it can deliver power.
+  [02:09.6 – 02:15.6]  The transformer steps the voltage up from 13.8 to 230 kilovolts.
+  [02:16.2 – 02:21.7]  The same power is then transmitted with less current and lower losses in the conductors.
+
+Scene 6 — 02:24 to 02:54 — From the transmission system to the user
+  [02:25.4 – 02:31.5]  Energy travels along the transmission line and reaches substations that step the voltage down.
+  [02:32.1 – 02:36.6]  It then passes through subtransmission and medium-voltage feeders.
+  [02:37.9 – 02:42.7]  A distribution transformer adapts the supply for low-voltage users.
+  [02:44.9 – 02:51.7]  Every level needs switching, metering and protection equipment to operate safely and without interruption.
+
+Scene 7 — 02:54 to 03:37 — When demand rises
+  [02:57.0 – 03:04.7]  To observe the response, we isolate an equivalent system and raise its demand from 20 to 23 megawatts.
+  [03:06.5 – 03:09.8]  At first, mechanical power does not change instantly:
+  [03:11.9 – 03:16.1]  rotating energy helps cover the deficit and the frequency falls.
+  [03:18.6 – 03:22.1]  The governor admits more water and delivers more power.
+  [03:24.4 – 03:27.1]  Primary regulation arrests the drop;
+  [03:28.3 – 03:34.0]  a secondary action adjusts the setpoint to bring the frequency back to 60 hertz.
+
+Scene 8 — 03:37 to 04:14 — When reactive demand rises
+  [03:39.6 – 03:44.1]  A rise in reactive demand can lower the voltage at the connection point.
+  [03:45.8 – 03:50.1]  Here another control steps in: the automatic voltage regulator.
+  [03:51.5 – 03:57.7]  It adjusts the rotor excitation to change the electrical response of the generator and support the voltage.
+  [03:59.4 – 04:02.9]  Its action is limited by the capability of the machine.
+  [04:04.0 – 04:10.2]  The governor and the excitation system perform different functions, although they work within the same system.
+
+Scene 9 — 04:14 to 04:45 — Recap
+  [04:15.5 – 04:22.2]  Water supplies energy, the turbine produces motion and the generator converts it into electricity.
+  [04:23.1 – 04:26.8]  Transformers make it possible to transmit and distribute it.
+  [04:27.6 – 04:31.3]  Controls and protection keep operation within limits.
+  [04:32.9 – 04:38.9]  Understanding the plant means following that whole chain, from the water resource to the needs of the user.

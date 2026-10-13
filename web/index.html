@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Del agua a la electricidad</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="stage">
+  <canvas id="gl"></canvas>
+  <svg id="lines" viewBox="0 0 1920 1080"></svg>
+  <div id="hud"></div>
+  <div id="subs"><span id="sub"></span></div>
+  <div id="black"></div>
+</div>
+<div id="controls">
+  <button id="play">Pausa</button>
+  <input id="scrub" type="range" min="0" max="8549" value="0">
+  <span id="pos"></span>
+</div>
+<script type="module" src="main.js"></script>
+</body>
+</html>

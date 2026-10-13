@@ -1,0 +1,286 @@
+{
+ "titulo": "Del agua a la electricidad",
+ "subtitulo": "Central hidroeléctrica con turbina Pelton y generador síncrono",
+ "fps": 30,
+ "duracion": 285,
+ "voz": {
+  "motor": "sapi",
+  "nombre": "Microsoft Sabina Desktop",
+  "velocidad": "-2",
+  "idioma": "es-MX"
+ },
+ "nota": "Cada frase se sintetiza por separado. 'sub' es el texto del subtítulo; 'tts' es el texto enviado al sintetizador (cifras en letras). El carácter | separa los cortes de subtítulo y debe coincidir en ambos campos. 'en' fija el inicio de la frase en segundos desde el inicio de la escena; si falta, la frase sigue a la anterior tras 'pausa' segundos. Los límites de escena se ajustaron a la duración medida de la voz.",
+ "escenas": [
+  {
+   "n": 1,
+   "ini": 0,
+   "fin": 23,
+   "titulo": "La pregunta y el sistema completo",
+   "aprendizaje": "La electricidad de la ciudad empieza en el agua del reservorio.",
+   "voz": [
+    {
+     "en": 1.0,
+     "sub": "¿Cómo se transforma el agua de un reservorio|en electricidad para una ciudad?",
+     "tts": "¿Cómo se transforma el agua de un reservorio|en electricidad para una ciudad?"
+    },
+    {
+     "pausa": 0.6,
+     "sub": "El recorrido combina energía hidráulica,|movimiento mecánico y fenómenos eléctricos.",
+     "tts": "El recorrido combina energía hidráulica,|movimiento mecánico y fenómenos eléctricos."
+    },
+    {
+     "pausa": 0.6,
+     "sub": "Vamos a seguirlo paso a paso|y después veremos cómo la central responde|cuando cambian las necesidades del sistema.",
+     "tts": "Vamos a seguirlo paso a paso|y después veremos cómo la central responde|cuando cambian las necesidades del sistema."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "ini": 23,
+   "fin": 51,
+   "titulo": "Salto, caudal y conducción",
+   "aprendizaje": "La potencia depende del salto neto y del caudal.",
+   "voz": [
+    {
+     "en": 1.2,
+     "sub": "El desnivel y el caudal determinan|la energía que podemos aprovechar.",
+     "tts": "El desnivel y el caudal determinan|la energía que podemos aprovechar."
+    },
+    {
+     "pausa": 0.8,
+     "sub": "Parte se pierde durante la conducción;|por eso usamos el salto neto.",
+     "tts": "Parte se pierde durante la conducción;|por eso usamos el salto neto."
+    },
+    {
+     "pausa": 1.0,
+     "sub": "En este ejemplo, 400 metros de salto|y 8,5 metros cúbicos por segundo|permiten obtener alrededor de 30 megavatios,|considerando las pérdidas de turbina y generador.",
+     "tts": "En este ejemplo, cuatrocientos metros de salto|y ocho coma cinco metros cúbicos por segundo|permiten obtener alrededor de treinta megavatios,|considerando las pérdidas de turbina y generador."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "ini": 51,
+   "fin": 81,
+   "titulo": "La turbina Pelton",
+   "aprendizaje": "El chorro cambia de dirección en las cucharas y produce el giro.",
+   "voz": [
+    {
+     "en": 2.0,
+     "sub": "En la boquilla, la presión del agua|se transforma en un chorro de alta velocidad.",
+     "tts": "En la boquilla, la presión del agua|se transforma en un chorro de alta velocidad."
+    },
+    {
+     "pausa": 0.8,
+     "sub": "El chorro golpea tangencialmente|las cucharas de la turbina Pelton|y cambia de dirección.",
+     "tts": "El chorro golpea tangencialmente|las cucharas de la turbina Pelton|y cambia de dirección."
+    },
+    {
+     "pausa": 0.6,
+     "sub": "Esa interacción produce el giro del rodete.",
+     "tts": "Esa interacción produce el giro del rodete."
+    },
+    {
+     "pausa": 3.2,
+     "sub": "El eje transmite la potencia mecánica al generador,|mientras el agua sale hacia el canal de restitución.",
+     "tts": "El eje transmite la potencia mecánica al generador,|mientras el agua sale hacia el canal de restitución."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "ini": 81,
+   "fin": 114,
+   "titulo": "Dentro del generador",
+   "aprendizaje": "Un campo magnético que gira frente a devanados fijos induce tensión.",
+   "voz": [
+    {
+     "en": 2.4,
+     "sub": "El rotor gira con la turbina.",
+     "tts": "El rotor gira con la turbina."
+    },
+    {
+     "pausa": 0.7,
+     "sub": "Sus electroimanes producen un campo magnético|que cambia de posición respecto de los devanados|del estator, que permanece fijo.",
+     "tts": "Sus electroimanes producen un campo magnético|que cambia de posición respecto de los devanados|del estator, que permanece fijo."
+    },
+    {
+     "pausa": 0.7,
+     "sub": "Ese cambio induce tensión.",
+     "tts": "Ese cambio induce tensión."
+    },
+    {
+     "pausa": 0.8,
+     "sub": "Los devanados están organizados|para producir tres fases.",
+     "tts": "Los devanados están organizados|para producir tres fases."
+    },
+    {
+     "pausa": 0.9,
+     "sub": "En esta máquina ilustrativa, 20 polos|y 360 revoluciones por minuto|corresponden a 60 hercios.",
+     "tts": "En esta máquina ilustrativa, veinte polos|y trescientas sesenta revoluciones por minuto|corresponden a sesenta hercios."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "ini": 114,
+   "fin": 144,
+   "titulo": "Sincronización y elevación de tensión",
+   "aprendizaje": "El transformador eleva la tensión; no crea energía.",
+   "voz": [
+    {
+     "en": 1.2,
+     "sub": "Antes de conectar el generador,|su tensión, frecuencia y posición de fase|deben ser compatibles con la red.",
+     "tts": "Antes de conectar el generador,|su tensión, frecuencia y posición de fase|deben ser compatibles con la red."
+    },
+    {
+     "pausa": 0.8,
+     "sub": "Después del cierre del interruptor,|puede entregar potencia.",
+     "tts": "Después del cierre del interruptor,|puede entregar potencia."
+    },
+    {
+     "pausa": 1.0,
+     "sub": "El transformador eleva la tensión|de 13,8 a 230 kilovoltios.",
+     "tts": "El transformador eleva la tensión|de trece coma ocho a doscientos treinta kilovoltios."
+    },
+    {
+     "pausa": 0.6,
+     "sub": "Así se transmite la misma potencia|con menor corriente y menores pérdidas|en los conductores.",
+     "tts": "Así se transmite la misma potencia|con menor corriente y menores pérdidas|en los conductores."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "ini": 144,
+   "fin": 174,
+   "titulo": "Del sistema de transmisión al usuario",
+   "aprendizaje": "La tensión se reduce por etapas hasta llegar al usuario.",
+   "voz": [
+    {
+     "en": 1.4,
+     "sub": "La energía recorre la transmisión|y llega a subestaciones que reducen la tensión.",
+     "tts": "La energía recorre la transmisión|y llega a subestaciones que reducen la tensión."
+    },
+    {
+     "pausa": 1.2,
+     "sub": "Después pasa por subtransmisión|y alimentadores de media tensión.",
+     "tts": "Después pasa por subtransmisión|y alimentadores de media tensión."
+    },
+    {
+     "pausa": 1.2,
+     "sub": "Un transformador de distribución adapta el suministro|para los usuarios de baja tensión.",
+     "tts": "Un transformador de distribución adapta el suministro|para los usuarios de baja tensión."
+    },
+    {
+     "pausa": 1.1,
+     "sub": "Cada nivel necesita equipos de maniobra,|medición y protección|para operar con seguridad y continuidad.",
+     "tts": "Cada nivel necesita equipos de maniobra,|medición y protección|para operar con seguridad y continuidad."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "ini": 174,
+   "fin": 217,
+   "titulo": "Cuando aumenta la demanda",
+   "aprendizaje": "El gobernador ajusta el agua para equilibrar la potencia y sostener la frecuencia.",
+   "voz": [
+    {
+     "en": 3.0,
+     "sub": "Para observar la respuesta,|aislamos un sistema equivalente|y aumentamos su demanda|de 20 a 23 megavatios.",
+     "tts": "Para observar la respuesta,|aislamos un sistema equivalente|y aumentamos su demanda|de veinte a veintitrés megavatios."
+    },
+    {
+     "pausa": 1.0,
+     "sub": "Al principio, la potencia mecánica|no cambia instantáneamente:",
+     "tts": "Al principio, la potencia mecánica|no cambia instantáneamente:"
+    },
+    {
+     "pausa": 0.35,
+     "sub": "la energía de rotación ayuda a cubrir el déficit|y la frecuencia disminuye.",
+     "tts": "la energía de rotación ayuda a cubrir el déficit|y la frecuencia disminuye."
+    },
+    {
+     "pausa": 1.4,
+     "sub": "El gobernador aumenta la admisión de agua|y aporta más potencia.",
+     "tts": "El gobernador aumenta la admisión de agua|y aporta más potencia."
+    },
+    {
+     "pausa": 1.4,
+     "sub": "La regulación primaria contiene la caída;",
+     "tts": "La regulación primaria contiene la caída;"
+    },
+    {
+     "pausa": 0.9,
+     "sub": "una acción secundaria ajusta la consigna|para recuperar los 60 hercios.",
+     "tts": "una acción secundaria ajusta la consigna|para recuperar los sesenta hercios."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "ini": 217,
+   "fin": 254.5,
+   "titulo": "Cuando aumenta la demanda reactiva",
+   "aprendizaje": "El AVR ajusta la excitación para sostener la tensión.",
+   "voz": [
+    {
+     "en": 2.6,
+     "sub": "Un aumento de demanda reactiva|puede reducir la tensión en el punto de conexión.",
+     "tts": "Un aumento de demanda reactiva|puede reducir la tensión en el punto de conexión."
+    },
+    {
+     "pausa": 0.8,
+     "sub": "Aquí interviene otro control:|el regulador automático de tensión.",
+     "tts": "Aquí interviene otro control:|el regulador automático de tensión."
+    },
+    {
+     "pausa": 0.7,
+     "sub": "Ajusta la excitación del rotor|para modificar la respuesta eléctrica del generador|y apoyar la tensión.",
+     "tts": "Ajusta la excitación del rotor|para modificar la respuesta eléctrica del generador|y apoyar la tensión."
+    },
+    {
+     "pausa": 0.7,
+     "sub": "Su acción está limitada|por la capacidad de la máquina.",
+     "tts": "Su acción está limitada|por la capacidad de la máquina."
+    },
+    {
+     "pausa": 0.8,
+     "sub": "El gobernador y la excitación|cumplen funciones diferentes,|aunque trabajan dentro del mismo sistema.",
+     "tts": "El gobernador y la excitación|cumplen funciones diferentes,|aunque trabajan dentro del mismo sistema."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "ini": 254.5,
+   "fin": 285,
+   "titulo": "Recapitulación",
+   "aprendizaje": "Agua, máquina y controles forman una sola cadena.",
+   "voz": [
+    {
+     "en": 1.0,
+     "sub": "El agua aporta energía, la turbina produce movimiento|y el generador lo convierte en electricidad.",
+     "tts": "El agua aporta energía, la turbina produce movimiento|y el generador lo convierte en electricidad."
+    },
+    {
+     "pausa": 0.5,
+     "sub": "Los transformadores permiten|transportarla y distribuirla.",
+     "tts": "Los transformadores permiten|transportarla y distribuirla."
+    },
+    {
+     "pausa": 0.5,
+     "sub": "Los controles y las protecciones|permiten operar dentro de límites.",
+     "tts": "Los controles y las protecciones|permiten operar dentro de límites."
+    },
+    {
+     "pausa": 0.6,
+     "sub": "Comprender la central exige seguir toda esa cadena,|desde el recurso hidráulico|hasta la necesidad del usuario.",
+     "tts": "Comprender la central exige seguir toda esa cadena,|desde el recurso hidráulico|hasta la necesidad del usuario."
+    }
+   ]
+  }
+ ]
+}

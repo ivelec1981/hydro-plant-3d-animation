@@ -1,0 +1,73 @@
+{
+  "nota": "Caso ilustrativo. Fuente única de parámetros para cálculos, ensayos, animación, rótulos y narración. No corresponde a ninguna central real.",
+  "hidraulica": {
+    "rho_kg_m3": 1000,
+    "g_m_s2": 9.81,
+    "salto_bruto_m": 412,
+    "perdidas_conduccion_m": 12,
+    "salto_neto_m": 400,
+    "caudal_diseno_m3_s": 8.5,
+    "eficiencia_turbina_generador": 0.90,
+    "inyectores": 6,
+    "coef_velocidad_boquilla": 0.97,
+    "relacion_velocidad_cuchara_chorro": 0.46,
+    "tuberia_longitud_m": 1100,
+    "tuberia_diametro_m": 1.65
+  },
+  "maquina": {
+    "frecuencia_Hz": 60,
+    "polos": 20,
+    "limite_activo_MW": 30,
+    "potencia_aparente_MVA": 33.3,
+    "factor_potencia_nominal": 0.9,
+    "tension_bornes_kV": 13.8,
+    "despacho_inicial_MW": 20,
+    "demanda_final_MW": 23
+  },
+  "red": {
+    "transmision_kV": 230,
+    "subtransmision_kV": 69,
+    "media_tension_kV": 13.8,
+    "baja_tension_V": [120, 240],
+    "transformador_distribucion": "monofásico, primario fase-neutro 7,97 kV, secundario 120/240 V con toma central puesta a tierra (neutro)"
+  },
+  "ensayo_frecuencia": {
+    "descripcion": "Sistema equivalente aislado: una unidad alimenta toda la demanda. Escalón de demanda de potencia constante.",
+    "base_MW": 30,
+    "H_s": 3.5,
+    "D_pu": 1.0,
+    "estatismo_permanente": 0.05,
+    "estatismo_transitorio": 0.36,
+    "T_reposicion_s": 5.5,
+    "T_servo_s": 0.2,
+    "velocidad_max_aguja_pu_s": 0.05,
+    "apertura_min_pu": 0.0,
+    "secundaria_Ki_pu_s": 1.4,
+    "secundaria_retardo_s": 34,
+    "t_evento_s": 10,
+    "t_final_s": 100,
+    "dt_s": 0.002
+  },
+  "ensayo_tension": {
+    "descripcion": "Generador con AVR, transformador elevador y red de Thévenin de impedancia finita. Escalón de carga reactiva inductiva (admitancia constante) en el punto de conexión de 230 kV. Potencia activa constante.",
+    "base_MVA": 33.3,
+    "xd": 1.0,
+    "xq": 0.65,
+    "xd_transitoria": 0.30,
+    "Td0_transitoria_s": 5.0,
+    "x_transformador": 0.10,
+    "x_thevenin": 0.30,
+    "E_thevenin_pu": 1.0,
+    "AVR_Ka": 200,
+    "AVR_Ta_s": 0.05,
+    "Efd_max_pu": 3.2,
+    "Efd_min_pu": 0.0,
+    "consigna_bornes_pu": 1.0,
+    "P_MW": 20,
+    "carga_reactiva_inicial_MVAr": 0,
+    "carga_reactiva_final_MVAr": 10,
+    "t_evento_s": 2,
+    "t_final_s": 8,
+    "dt_s": 0.001
+  }
+}

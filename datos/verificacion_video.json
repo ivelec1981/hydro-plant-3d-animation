@@ -1,0 +1,77 @@
+{
+ "correcto": true,
+ "duracion_prevista_s": 285.0,
+ "fotogramas_previstos": 8550,
+ "archivos": {
+  "con_voz": {
+   "archivo": "Central_hidroelectrica_3D_educativo_1080p.mp4",
+   "duracion_s": 285.0,
+   "tamano_MB": 210.6,
+   "video": "h264 High 1920x1080 yuv420p",
+   "fps": "30/1",
+   "fps_medio": "30/1",
+   "fotogramas": 8550,
+   "audio": "aac 48000 Hz 2 canales",
+   "audio_duracion_s": 285.0,
+   "lufs_integrado": -16.0,
+   "pico_verdadero_dbtp": -1.2,
+   "errores_de_decodificacion": ""
+  },
+  "sin_voz": {
+   "archivo": "Central_hidroelectrica_3D_educativo_1080p_sin_voz.mp4",
+   "duracion_s": 285.0,
+   "tamano_MB": 210.6,
+   "video": "h264 High 1920x1080 yuv420p",
+   "fps": "30/1",
+   "fps_medio": "30/1",
+   "fotogramas": 8550,
+   "audio": "aac 48000 Hz 2 canales",
+   "audio_duracion_s": 285.0,
+   "lufs_integrado": -20.0,
+   "pico_verdadero_dbtp": -5.5,
+   "errores_de_decodificacion": ""
+  },
+  "subtitulado": {
+   "archivo": "Central_hidroelectrica_3D_educativo_1080p_subtitulado.mp4",
+   "duracion_s": 285.0,
+   "tamano_MB": 183.2,
+   "video": "h264 High 1920x1080 yuv420p",
+   "fps": "30/1",
+   "fps_medio": "30/1",
+   "fotogramas": 8550,
+   "audio": "aac 48000 Hz 2 canales",
+   "audio_duracion_s": 285.0,
+   "lufs_integrado": -16.0,
+   "pico_verdadero_dbtp": -1.2,
+   "errores_de_decodificacion": ""
+  },
+  "master_4k": {
+   "archivo": "Central_hidroelectrica_3D_educativo_2160p_master.mp4",
+   "duracion_s": 285.0,
+   "tamano_MB": 513.1,
+   "video": "h264 High 3840x2160 yuv420p",
+   "fps": "30/1",
+   "fps_medio": "30/1",
+   "fotogramas": 8550,
+   "audio": "aac 48000 Hz 2 canales",
+   "audio_duracion_s": 285.0,
+   "lufs_integrado": -16.0,
+   "pico_verdadero_dbtp": -1.2,
+   "errores_de_decodificacion": ""
+  }
+ },
+ "sincronia_voz": {
+  "inicio": {
+   "frase_en_s": 1.0,
+   "desfase_ms": 0.0
+  },
+  "mitad": {
+   "frase_en_s": 145.4,
+   "desfase_ms": 0.0
+  },
+  "final": {
+   "frase_en_s": 272.995,
+   "desfase_ms": 0.0
+  }
+ }
+}

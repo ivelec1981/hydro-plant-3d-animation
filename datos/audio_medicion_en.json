@@ -1,0 +1,28 @@
+{
+ "con_voz": {
+  "archivo": "audio/mezcla_en_final.wav",
+  "duracion_s": 285.0,
+  "lufs_integrado": -16.0,
+  "pico_verdadero_dbtp": -1.32,
+  "rango_lra": 5.6,
+  "lufs_en_mono": -19.26
+ },
+ "sin_voz": {
+  "archivo": "audio/sin_voz_en_final.wav",
+  "duracion_s": 285.0,
+  "lufs_integrado": -20.0,
+  "pico_verdadero_dbtp": -5.34,
+  "rango_lra": 3.7,
+  "lufs_en_mono": -25.18
+ },
+ "reduccion_musica_bajo_voz_db": -9.4,
+ "voz_menos_fondo_durante_la_locucion_db": 13.3,
+ "voz": {
+  "motor": "piper",
+  "nombre": "en_US-ryan-high",
+  "velocidad": "1.32",
+  "idioma": "en-US",
+  "licencia": "Voz de Piper entrenada con RyanSpeech (CC BY-NC-SA 4.0): uso no comercial"
+ },
+ "palabras_por_minuto_solo_voz": 149
+}

@@ -1,0 +1,95 @@
+{
+ "ensayo_frecuencia": {
+  "parametros": {
+   "descripcion": "Sistema equivalente aislado: una unidad alimenta toda la demanda. Escalón de demanda de potencia constante.",
+   "base_MW": 30,
+   "H_s": 3.5,
+   "D_pu": 1.0,
+   "estatismo_permanente": 0.05,
+   "estatismo_transitorio": 0.36,
+   "T_reposicion_s": 5.5,
+   "T_servo_s": 0.2,
+   "velocidad_max_aguja_pu_s": 0.05,
+   "apertura_min_pu": 0.0,
+   "secundaria_Ki_pu_s": 1.4,
+   "secundaria_retardo_s": 34,
+   "t_evento_s": 10,
+   "t_final_s": 100,
+   "dt_s": 0.002
+  },
+  "resultados": {
+   "nadir_Hz": 58.0602,
+   "t_nadir_desde_evento_s": 3.68,
+   "f_final_Hz": 59.9959,
+   "Pm_min_tras_evento_MW": 19.771,
+   "Pm_final_MW": 22.999,
+   "caudal_final_m3_s": 6.512,
+   "apertura_final_pu": 0.7666,
+   "t_recuperacion_a_0_02Hz_desde_evento_s": 69.4
+  },
+  "comprobaciones": {
+   "tiempo_arranque_agua_Tw_s": 1.114,
+   "energia_cinetica_MJ": 105.0,
+   "pendiente_inicial_teorica_Hz_s": -0.857,
+   "pendiente_inicial_simulada_Hz_s": -0.856,
+   "nadir_con_dt": 58.0602,
+   "nadir_con_dt_mitad": 58.0602,
+   "diferencia_por_paso_Hz": 0.0,
+   "desviacion_primaria_estacionaria_D0_Hz": -0.3,
+   "desviacion_primaria_teorica_D0_Hz": -0.3,
+   "desviacion_primaria_estacionaria_con_D_Hz": -0.2858,
+   "desviacion_primaria_teorica_con_D_Hz": -0.2857
+  },
+  "hipotesis": "Una sola unidad en un sistema aislado; demanda de potencia constante con amortiguamiento D; turbina no lineal con columna de agua inelástica; regulador con estatismo permanente y transitorio, velocidad de aguja limitada; control secundario integral lento. Eficiencia constante."
+ },
+ "ensayo_tension": {
+  "parametros": {
+   "descripcion": "Generador con AVR, transformador elevador y red de Thévenin de impedancia finita. Escalón de carga reactiva inductiva (admitancia constante) en el punto de conexión de 230 kV. Potencia activa constante.",
+   "base_MVA": 33.3,
+   "xd": 1.0,
+   "xq": 0.65,
+   "xd_transitoria": 0.3,
+   "Td0_transitoria_s": 5.0,
+   "x_transformador": 0.1,
+   "x_thevenin": 0.3,
+   "E_thevenin_pu": 1.0,
+   "AVR_Ka": 200,
+   "AVR_Ta_s": 0.05,
+   "Efd_max_pu": 3.2,
+   "Efd_min_pu": 0.0,
+   "consigna_bornes_pu": 1.0,
+   "P_MW": 20,
+   "carga_reactiva_inicial_MVAr": 0,
+   "carga_reactiva_final_MVAr": 10,
+   "t_evento_s": 2,
+   "t_final_s": 8,
+   "dt_s": 0.001
+  },
+  "resultados": {
+   "antes": {
+    "V_conexion_kV": 227.69,
+    "V_bornes_kV": 13.717,
+    "Q_generador_MVAr": 1.96,
+    "I_campo_pu": 1.199
+   },
+   "minimo_V_conexion_kV": 215.86,
+   "final_con_AVR": {
+    "V_conexion_kV": 222.44,
+    "V_bornes_kV": 13.704,
+    "Q_generador_MVAr": 9.18,
+    "I_campo_pu": 1.397
+   },
+   "final_sin_AVR_excitacion_fija": {
+    "V_conexion_kV": 211.32,
+    "V_bornes_kV": 12.807,
+    "Q_generador_MVAr": 3.58
+   },
+   "Q_a_factor_de_potencia_nominal_MVAr": 14.5,
+   "I_estator_final_pu": 0.666,
+   "Efd_maximo_alcanzado_pu": 3.2,
+   "Efd_techo_pu": 3.2,
+   "diferencia_por_paso_kV": 0.00076
+  },
+  "hipotesis": "Generador de polos salientes, modelo de un eje (E'q); AVR estático de primer orden; red sin resistencias; carga reactiva de admitancia constante; potencia activa constante y ángulo de carga cuasiestático (sin oscilación electromecánica)."
+ }
+}

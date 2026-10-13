@@ -1,0 +1,128 @@
+﻿1
+00:00:01,000 --> 00:00:02,635
+How does water in a reservoir
+
+2
+00:00:02,675 --> 00:00:04,466
+become electricity for a city?
+
+3
+00:00:06,375 --> 00:00:09,595
+In this example, a head of 400 metres
+
+4
+00:00:09,635 --> 00:00:12,529
+and 8.5 cubic metres per second
+
+5
+00:00:12,569 --> 00:00:14,602
+yield about 30 megawatts,
+
+6
+00:00:14,642 --> 00:00:17,283
+after turbine and generator losses.
+
+7
+00:00:17,800 --> 00:00:19,930
+At the nozzle, the water pressure
+
+8
+00:00:19,970 --> 00:00:21,684
+becomes a high-speed jet.
+
+9
+00:00:24,234 --> 00:00:25,927
+The jet strikes the buckets
+
+10
+00:00:25,967 --> 00:00:28,146
+of the Pelton turbine tangentially
+
+11
+00:00:28,186 --> 00:00:29,627
+and changes direction.
+
+12
+00:00:30,826 --> 00:00:33,015
+That interaction makes the runner turn.
+
+13
+00:00:33,849 --> 00:00:36,510
+Its electromagnets
+produce a magnetic field
+
+14
+00:00:36,550 --> 00:00:38,373
+that moves past the windings
+
+15
+00:00:38,413 --> 00:00:41,065
+of the stator, which stays fixed.
+
+16
+00:00:43,669 --> 00:00:45,614
+That change induces voltage.
+
+17
+00:00:46,210 --> 00:00:47,762
+Once the breaker closes,
+
+18
+00:00:47,802 --> 00:00:48,980
+it can deliver power.
+
+19
+00:00:50,000 --> 00:00:51,722
+The stator stays still,
+
+20
+00:00:51,762 --> 00:00:53,756
+but the currents in its three phases
+
+21
+00:00:53,796 --> 00:00:54,778
+change over time.
+
+22
+00:00:55,518 --> 00:00:58,857
+Each phase produces a
+magnetic contribution
+
+23
+00:00:58,897 --> 00:01:01,457
+that pulses along a fixed axis.
+
+24
+00:01:02,297 --> 00:01:05,287
+Added together, they form
+a field that rotates
+
+25
+00:01:05,327 --> 00:01:06,878
+with constant amplitude.
+
+26
+00:01:08,418 --> 00:01:11,397
+Under load, this field
+interacts with the rotor.
+
+27
+00:01:13,037 --> 00:01:15,244
+The transformer steps the voltage up
+
+28
+00:01:15,284 --> 00:01:18,965
+from 13.8 to 230 kilovolts.
+
+29
+00:01:19,495 --> 00:01:22,741
+Understanding the plant means
+following that whole chain,
+
+30
+00:01:22,781 --> 00:01:24,004
+from the water resource
+
+31
+00:01:24,044 --> 00:01:25,457
+to the needs of the user.

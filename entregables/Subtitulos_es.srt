@@ -1,0 +1,362 @@
+﻿1
+00:00:01,000 --> 00:00:03,680
+¿Cómo se transforma el
+agua de un reservorio
+
+2
+00:00:03,720 --> 00:00:06,062
+en electricidad para una ciudad?
+
+3
+00:00:06,702 --> 00:00:09,753
+El recorrido combina energía hidráulica,
+
+4
+00:00:09,793 --> 00:00:13,247
+movimiento mecánico y
+fenómenos eléctricos.
+
+5
+00:00:13,887 --> 00:00:15,925
+Vamos a seguirlo paso a paso
+
+6
+00:00:15,965 --> 00:00:18,748
+y después veremos cómo la central responde
+
+7
+00:00:18,788 --> 00:00:21,812
+cuando cambian las
+necesidades del sistema.
+
+8
+00:00:24,200 --> 00:00:26,344
+El desnivel y el caudal determinan
+
+9
+00:00:26,384 --> 00:00:28,867
+la energía que podemos aprovechar.
+
+10
+00:00:29,707 --> 00:00:32,468
+Parte se pierde durante la conducción;
+
+11
+00:00:32,508 --> 00:00:34,835
+por eso usamos el salto neto.
+
+12
+00:00:35,875 --> 00:00:39,424
+En este ejemplo, 400 metros de salto
+
+13
+00:00:39,464 --> 00:00:42,608
+y 8,5 metros cúbicos por segundo
+
+14
+00:00:42,648 --> 00:00:46,410
+permiten obtener alrededor
+de 30 megavatios,
+
+15
+00:00:46,450 --> 00:00:49,856
+considerando las pérdidas
+de turbina y generador.
+
+16
+00:00:53,000 --> 00:00:55,418
+En la boquilla, la presión del agua
+
+17
+00:00:55,458 --> 00:00:58,594
+se transforma en un
+chorro de alta velocidad.
+
+18
+00:00:59,434 --> 00:01:01,577
+El chorro golpea tangencialmente
+
+19
+00:01:01,617 --> 00:01:03,762
+las cucharas de la turbina Pelton
+
+20
+00:01:03,802 --> 00:01:05,386
+y cambia de dirección.
+
+21
+00:01:06,026 --> 00:01:09,032
+Esa interacción produce
+el giro del rodete.
+
+22
+00:01:12,272 --> 00:01:16,118
+El eje transmite la potencia
+mecánica al generador,
+
+23
+00:01:16,158 --> 00:01:19,688
+mientras el agua sale hacia
+el canal de restitución.
+
+24
+00:01:23,400 --> 00:01:25,409
+El rotor gira con la turbina.
+
+25
+00:01:26,149 --> 00:01:29,356
+Sus electroimanes producen
+un campo magnético
+
+26
+00:01:29,396 --> 00:01:32,458
+que cambia de posición
+respecto de los devanados
+
+27
+00:01:32,498 --> 00:01:35,229
+del estator, que permanece fijo.
+
+28
+00:01:35,969 --> 00:01:37,982
+Ese cambio induce tensión.
+
+29
+00:01:38,822 --> 00:01:40,985
+Los devanados están organizados
+
+30
+00:01:41,025 --> 00:01:43,074
+para producir tres fases.
+
+31
+00:01:44,014 --> 00:01:47,255
+En esta máquina ilustrativa, 20 polos
+
+32
+00:01:47,295 --> 00:01:50,305
+y 360 revoluciones por minuto
+
+33
+00:01:50,345 --> 00:01:52,781
+corresponden a 60 hercios.
+
+34
+00:01:55,200 --> 00:01:57,510
+Antes de conectar el generador,
+
+35
+00:01:57,550 --> 00:02:01,040
+su tensión, frecuencia y posición de fase
+
+36
+00:02:01,080 --> 00:02:03,470
+deben ser compatibles con la red.
+
+37
+00:02:04,310 --> 00:02:06,763
+Después del cierre del interruptor,
+
+38
+00:02:06,803 --> 00:02:08,597
+puede entregar potencia.
+
+39
+00:02:09,637 --> 00:02:11,681
+El transformador eleva la tensión
+
+40
+00:02:11,721 --> 00:02:15,593
+de 13,8 a 230 kilovoltios.
+
+41
+00:02:16,233 --> 00:02:18,595
+Así se transmite la misma potencia
+
+42
+00:02:18,635 --> 00:02:21,155
+con menor corriente y menores pérdidas
+
+43
+00:02:21,195 --> 00:02:22,647
+en los conductores.
+
+44
+00:02:25,400 --> 00:02:27,594
+La energía recorre la transmisión
+
+45
+00:02:27,634 --> 00:02:30,915
+y llega a subestaciones
+que reducen la tensión.
+
+46
+00:02:32,155 --> 00:02:34,328
+Después pasa por subtransmisión
+
+47
+00:02:34,368 --> 00:02:36,717
+y alimentadores de media tensión.
+
+48
+00:02:37,957 --> 00:02:41,334
+Un transformador de distribución
+adapta el suministro
+
+49
+00:02:41,374 --> 00:02:43,803
+para los usuarios de baja tensión.
+
+50
+00:02:44,943 --> 00:02:47,925
+Cada nivel necesita equipos de maniobra,
+
+51
+00:02:47,965 --> 00:02:49,447
+medición y protección
+
+52
+00:02:49,487 --> 00:02:52,333
+para operar con seguridad y continuidad.
+
+53
+00:02:57,000 --> 00:02:59,084
+Para observar la respuesta,
+
+54
+00:02:59,124 --> 00:03:01,349
+aislamos un sistema equivalente
+
+55
+00:03:01,389 --> 00:03:02,907
+y aumentamos su demanda
+
+56
+00:03:02,947 --> 00:03:05,472
+de 20 a 23 megavatios.
+
+57
+00:03:06,512 --> 00:03:09,355
+Al principio, la potencia mecánica
+
+58
+00:03:09,395 --> 00:03:11,537
+no cambia instantáneamente:
+
+59
+00:03:11,927 --> 00:03:15,233
+la energía de rotación
+ayuda a cubrir el déficit
+
+60
+00:03:15,273 --> 00:03:17,184
+y la frecuencia disminuye.
+
+61
+00:03:18,624 --> 00:03:21,186
+El gobernador aumenta la admisión de agua
+
+62
+00:03:21,226 --> 00:03:23,052
+y aporta más potencia.
+
+63
+00:03:24,492 --> 00:03:27,375
+La regulación primaria contiene la caída;
+
+64
+00:03:28,315 --> 00:03:31,091
+una acción secundaria ajusta la consigna
+
+65
+00:03:31,131 --> 00:03:33,758
+para recuperar los 60 hercios.
+
+66
+00:03:39,600 --> 00:03:41,494
+Un aumento de demanda reactiva
+
+67
+00:03:41,534 --> 00:03:45,049
+puede reducir la tensión
+en el punto de conexión.
+
+68
+00:03:45,889 --> 00:03:48,133
+Aquí interviene otro control:
+
+69
+00:03:48,173 --> 00:03:50,805
+el regulador automático de tensión.
+
+70
+00:03:51,545 --> 00:03:53,533
+Ajusta la excitación del rotor
+
+71
+00:03:53,573 --> 00:03:57,057
+para modificar la respuesta
+eléctrica del generador
+
+72
+00:03:57,097 --> 00:03:58,688
+y apoyar la tensión.
+
+73
+00:03:59,428 --> 00:04:01,041
+Su acción está limitada
+
+74
+00:04:01,081 --> 00:04:03,208
+por la capacidad de la máquina.
+
+75
+00:04:04,048 --> 00:04:05,831
+El gobernador y la excitación
+
+76
+00:04:05,871 --> 00:04:08,253
+cumplen funciones diferentes,
+
+77
+00:04:08,293 --> 00:04:11,156
+aunque trabajan dentro del mismo sistema.
+
+78
+00:04:15,500 --> 00:04:19,546
+El agua aporta energía, la
+turbina produce movimiento
+
+79
+00:04:19,586 --> 00:04:22,568
+y el generador lo
+convierte en electricidad.
+
+80
+00:04:23,108 --> 00:04:24,918
+Los transformadores permiten
+
+81
+00:04:24,958 --> 00:04:27,119
+transportarla y distribuirla.
+
+82
+00:04:27,659 --> 00:04:29,845
+Los controles y las protecciones
+
+83
+00:04:29,885 --> 00:04:32,355
+permiten operar dentro de límites.
+
+84
+00:04:32,995 --> 00:04:36,826
+Comprender la central exige
+seguir toda esa cadena,
+
+85
+00:04:36,866 --> 00:04:38,622
+desde el recurso hidráulico
+
+86
+00:04:38,662 --> 00:04:40,788
+hasta la necesidad del usuario.

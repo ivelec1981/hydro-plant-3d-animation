@@ -1,0 +1,278 @@
+{
+ "titulo": "From water to electricity",
+ "subtitulo": "Hydroelectric plant with a Pelton turbine and a synchronous generator",
+ "fps": 30,
+ "duracion": 285,
+ "voz": {
+  "motor": "piper",
+  "nombre": "en_US-ryan-high",
+  "velocidad": "1.32",
+  "idioma": "en-US",
+  "licencia": "Voz de Piper entrenada con RyanSpeech (CC BY-NC-SA 4.0): uso no comercial"
+ },
+ "nota": "English narration. Each sentence starts at the instant of its Spanish counterpart, so scene limits and the picture timeline are unchanged.",
+ "escenas": [
+  {
+   "n": 1,
+   "ini": 0,
+   "fin": 23,
+   "titulo": "The question and the whole system",
+   "voz": [
+    {
+     "en": 1.0,
+     "sub": "How does water in a reservoir|become electricity for a city?",
+     "tts": "How does water in a reservoir|become electricity for a city?"
+    },
+    {
+     "en": 6.702,
+     "sub": "The journey combines hydraulic energy,|mechanical motion and electrical phenomena.",
+     "tts": "The journey combines hydraulic energy,|mechanical motion and electrical phenomena."
+    },
+    {
+     "en": 13.887,
+     "sub": "We will follow it step by step|and then see how the plant responds|when the needs of the system change.",
+     "tts": "We will follow it step by step|and then see how the plant responds|when the needs of the system change."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "ini": 23,
+   "fin": 51,
+   "titulo": "Head, flow and conduit",
+   "voz": [
+    {
+     "en": 1.2,
+     "sub": "Head and flow determine|the energy we can use.",
+     "tts": "Head and flow determine|the energy we can use."
+    },
+    {
+     "en": 6.707,
+     "sub": "Part of it is lost along the conduit;|that is why we use the net head.",
+     "tts": "Part of it is lost along the conduit;|that is why we use the net head."
+    },
+    {
+     "en": 12.875,
+     "sub": "In this example, a head of 400 metres|and 8.5 cubic metres per second|yield about 30 megawatts,|after turbine and generator losses.",
+     "tts": "In this example, a head of four hundred metres|and eight point five cubic metres per second|yield about thirty megawatts,|after turbine and generator losses."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "ini": 51,
+   "fin": 81,
+   "titulo": "The Pelton turbine",
+   "voz": [
+    {
+     "en": 2.0,
+     "sub": "At the nozzle, the water pressure|becomes a high-speed jet.",
+     "tts": "At the nozzle, the water pressure|becomes a high-speed jet."
+    },
+    {
+     "en": 8.434,
+     "sub": "The jet strikes the buckets|of the Pelton turbine tangentially|and changes direction.",
+     "tts": "The jet strikes the buckets|of the Pelton turbine tangentially|and changes direction."
+    },
+    {
+     "en": 15.026,
+     "sub": "That interaction makes the runner turn.",
+     "tts": "That interaction makes the runner turn."
+    },
+    {
+     "en": 21.272,
+     "sub": "The shaft carries mechanical power to the generator,|while the water leaves through the tailrace.",
+     "tts": "The shaft carries mechanical power to the generator,|while the water leaves through the tailrace."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "ini": 81,
+   "fin": 114,
+   "titulo": "Inside the generator",
+   "voz": [
+    {
+     "en": 2.4,
+     "sub": "The rotor turns with the turbine.",
+     "tts": "The rotor turns with the turbine."
+    },
+    {
+     "en": 5.149,
+     "sub": "Its electromagnets produce a magnetic field|that moves past the windings|of the stator, which stays fixed.",
+     "tts": "Its electromagnets produce a magnetic field|that moves past the windings|of the stator, which stays fixed."
+    },
+    {
+     "en": 14.969,
+     "sub": "That change induces voltage.",
+     "tts": "That change induces voltage."
+    },
+    {
+     "en": 17.822,
+     "sub": "The windings are arranged|to produce three phases.",
+     "tts": "The windings are arranged|to produce three phases."
+    },
+    {
+     "en": 23.014,
+     "sub": "In this illustrative machine, 20 poles|and 360 revolutions per minute|correspond to 60 hertz.",
+     "tts": "In this illustrative machine, twenty poles|and three hundred sixty revolutions per minute|correspond to sixty hertz."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "ini": 114,
+   "fin": 144,
+   "titulo": "Synchronisation and voltage step-up",
+   "voz": [
+    {
+     "en": 1.2,
+     "sub": "Before connecting the generator,|its voltage, frequency and phase angle|must match those of the grid.",
+     "tts": "Before connecting the generator,|its voltage, frequency and phase angle|must match those of the grid."
+    },
+    {
+     "en": 10.31,
+     "sub": "Once the breaker closes,|it can deliver power.",
+     "tts": "Once the breaker closes,|it can deliver power."
+    },
+    {
+     "en": 15.637,
+     "sub": "The transformer steps the voltage up|from 13.8 to 230 kilovolts.",
+     "tts": "The transformer steps the voltage up|from thirteen point eight to two hundred thirty kilovolts."
+    },
+    {
+     "en": 22.233,
+     "sub": "The same power is then transmitted|with less current and lower losses|in the conductors.",
+     "tts": "The same power is then transmitted|with less current and lower losses|in the conductors."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "ini": 144,
+   "fin": 174,
+   "titulo": "From the transmission system to the user",
+   "voz": [
+    {
+     "en": 1.4,
+     "sub": "Energy travels along the transmission line|and reaches substations that step the voltage down.",
+     "tts": "Energy travels along the transmission line|and reaches substations that step the voltage down."
+    },
+    {
+     "en": 8.155,
+     "sub": "It then passes through subtransmission|and medium-voltage feeders.",
+     "tts": "It then passes through subtransmission|and medium-voltage feeders."
+    },
+    {
+     "en": 13.957,
+     "sub": "A distribution transformer adapts the supply|for low-voltage users.",
+     "tts": "A distribution transformer adapts the supply|for low-voltage users."
+    },
+    {
+     "en": 20.943,
+     "sub": "Every level needs switching,|metering and protection equipment|to operate safely and without interruption.",
+     "tts": "Every level needs switching,|metering and protection equipment|to operate safely and without interruption."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "ini": 174,
+   "fin": 217,
+   "titulo": "When demand rises",
+   "voz": [
+    {
+     "en": 3.0,
+     "sub": "To observe the response,|we isolate an equivalent system|and raise its demand|from 20 to 23 megawatts.",
+     "tts": "To observe the response,|we isolate an equivalent system|and raise its demand|from twenty to twenty-three megawatts."
+    },
+    {
+     "en": 12.512,
+     "sub": "At first, mechanical power|does not change instantly:",
+     "tts": "At first, mechanical power|does not change instantly:"
+    },
+    {
+     "en": 17.927,
+     "sub": "rotating energy helps cover the deficit|and the frequency falls.",
+     "tts": "rotating energy helps cover the deficit|and the frequency falls."
+    },
+    {
+     "en": 24.624,
+     "sub": "The governor admits more water|and delivers more power.",
+     "tts": "The governor admits more water|and delivers more power."
+    },
+    {
+     "en": 30.492,
+     "sub": "Primary regulation arrests the drop;",
+     "tts": "Primary regulation arrests the drop;"
+    },
+    {
+     "en": 34.315,
+     "sub": "a secondary action adjusts the setpoint|to bring the frequency back to 60 hertz.",
+     "tts": "a secondary action adjusts the setpoint|to bring the frequency back to sixty hertz."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "ini": 217,
+   "fin": 254.5,
+   "titulo": "When reactive demand rises",
+   "voz": [
+    {
+     "en": 2.6,
+     "sub": "A rise in reactive demand|can lower the voltage at the connection point.",
+     "tts": "A rise in reactive demand|can lower the voltage at the connection point."
+    },
+    {
+     "en": 8.889,
+     "sub": "Here another control steps in:|the automatic voltage regulator.",
+     "tts": "Here another control steps in:|the automatic voltage regulator."
+    },
+    {
+     "en": 14.545,
+     "sub": "It adjusts the rotor excitation|to change the electrical response of the generator|and support the voltage.",
+     "tts": "It adjusts the rotor excitation|to change the electrical response of the generator|and support the voltage."
+    },
+    {
+     "en": 22.428,
+     "sub": "Its action is limited|by the capability of the machine.",
+     "tts": "Its action is limited|by the capability of the machine."
+    },
+    {
+     "en": 27.048,
+     "sub": "The governor and the excitation system|perform different functions,|although they work within the same system.",
+     "tts": "The governor and the excitation system|perform different functions,|although they work within the same system."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "ini": 254.5,
+   "fin": 285,
+   "titulo": "Recap",
+   "voz": [
+    {
+     "en": 1.0,
+     "sub": "Water supplies energy, the turbine produces motion|and the generator converts it into electricity.",
+     "tts": "Water supplies energy, the turbine produces motion|and the generator converts it into electricity."
+    },
+    {
+     "en": 8.608,
+     "sub": "Transformers make it possible|to transmit and distribute it.",
+     "tts": "Transformers make it possible|to transmit and distribute it."
+    },
+    {
+     "en": 13.159,
+     "sub": "Controls and protection|keep operation within limits.",
+     "tts": "Controls and protection|keep operation within limits."
+    },
+    {
+     "en": 18.495,
+     "sub": "Understanding the plant means following that whole chain,|from the water resource|to the needs of the user.",
+     "tts": "Understanding the plant means following that whole chain,|from the water resource|to the needs of the user."
+    }
+   ]
+  }
+ ]
+}

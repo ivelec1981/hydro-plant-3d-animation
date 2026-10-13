@@ -1,0 +1,2856 @@
+{
+ "voz": {
+  "motor": "sapi",
+  "nombre": "Microsoft Sabina Desktop",
+  "velocidad": "-2",
+  "idioma": "es-MX"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "ini": 0,
+   "fin": 23,
+   "holgura": 1.15,
+   "frases": [
+    {
+     "archivo": "audio/voz/e01_1.wav",
+     "ini": 1.0,
+     "fin": 6.102,
+     "dur": 5.102,
+     "ppm": 153,
+     "cortes": [
+      {
+       "ini": 1.0,
+       "texto": "¿Cómo se transforma el agua de un reservorio",
+       "fin": 3.72
+      },
+      {
+       "ini": 3.72,
+       "texto": "en electricidad para una ciudad?",
+       "fin": 6.102
+      }
+     ],
+     "palabras": [
+      [
+       1.0,
+       "Cómo"
+      ],
+      [
+       1.299,
+       "se"
+      ],
+      [
+       1.496,
+       "transforma"
+      ],
+      [
+       2.25,
+       "el"
+      ],
+      [
+       2.406,
+       "agua"
+      ],
+      [
+       2.68,
+       "de"
+      ],
+      [
+       2.846,
+       "un"
+      ],
+      [
+       3.026,
+       "reservorio"
+      ],
+      [
+       3.8,
+       "en"
+      ],
+      [
+       3.956,
+       "electricidad"
+      ],
+      [
+       4.886,
+       "para"
+      ],
+      [
+       5.16,
+       "una"
+      ],
+      [
+       5.447,
+       "ciudad"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e01_2.wav",
+     "ini": 6.702,
+     "fin": 13.287,
+     "dur": 6.585,
+     "ppm": 91,
+     "cortes": [
+      {
+       "ini": 6.702,
+       "texto": "El recorrido combina energía hidráulica,",
+       "fin": 9.793
+      },
+      {
+       "ini": 9.793,
+       "texto": "movimiento mecánico y fenómenos eléctricos.",
+       "fin": 13.287
+      }
+     ],
+     "palabras": [
+      [
+       6.718,
+       "El"
+      ],
+      [
+       6.855,
+       "recorrido"
+      ],
+      [
+       7.504,
+       "combina"
+      ],
+      [
+       8.048,
+       "energía"
+      ],
+      [
+       8.662,
+       "hidráulica"
+      ],
+      [
+       9.873,
+       "movimiento"
+      ],
+      [
+       10.622,
+       "mecánico"
+      ],
+      [
+       11.381,
+       "y"
+      ],
+      [
+       11.512,
+       "fenómenos"
+      ],
+      [
+       12.279,
+       "eléctricos"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e01_3.wav",
+     "ini": 13.887,
+     "fin": 21.852,
+     "dur": 7.964,
+     "ppm": 143,
+     "cortes": [
+      {
+       "ini": 13.887,
+       "texto": "Vamos a seguirlo paso a paso",
+       "fin": 15.965
+      },
+      {
+       "ini": 15.965,
+       "texto": "y después veremos cómo la central responde",
+       "fin": 18.788
+      },
+      {
+       "ini": 18.788,
+       "texto": "cuando cambian las necesidades del sistema.",
+       "fin": 21.852
+      }
+     ],
+     "palabras": [
+      [
+       13.902,
+       "Vamos"
+      ],
+      [
+       14.358,
+       "a"
+      ],
+      [
+       14.439,
+       "seguirlo"
+      ],
+      [
+       15.015,
+       "paso"
+      ],
+      [
+       15.466,
+       "a"
+      ],
+      [
+       15.554,
+       "paso"
+      ],
+      [
+       16.045,
+       "y"
+      ],
+      [
+       16.176,
+       "después"
+      ],
+      [
+       16.697,
+       "veremos"
+      ],
+      [
+       17.216,
+       "cómo"
+      ],
+      [
+       17.574,
+       "la"
+      ],
+      [
+       17.73,
+       "central"
+      ],
+      [
+       18.261,
+       "responde"
+      ],
+      [
+       18.868,
+       "cuando"
+      ],
+      [
+       19.279,
+       "cambian"
+      ],
+      [
+       19.785,
+       "las"
+      ],
+      [
+       20.005,
+       "necesidades"
+      ],
+      [
+       20.879,
+       "del"
+      ],
+      [
+       21.046,
+       "sistema"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "ini": 23,
+   "fin": 51,
+   "holgura": 1.1,
+   "frases": [
+    {
+     "archivo": "audio/voz/e02_1.wav",
+     "ini": 24.2,
+     "fin": 28.907,
+     "dur": 4.707,
+     "ppm": 140,
+     "cortes": [
+      {
+       "ini": 24.2,
+       "texto": "El desnivel y el caudal determinan",
+       "fin": 26.384
+      },
+      {
+       "ini": 26.384,
+       "texto": "la energía que podemos aprovechar.",
+       "fin": 28.907
+      }
+     ],
+     "palabras": [
+      [
+       24.208,
+       "El"
+      ],
+      [
+       24.356,
+       "desnivel"
+      ],
+      [
+       24.972,
+       "y"
+      ],
+      [
+       25.075,
+       "el"
+      ],
+      [
+       25.201,
+       "caudal"
+      ],
+      [
+       25.733,
+       "determinan"
+      ],
+      [
+       26.464,
+       "la"
+      ],
+      [
+       26.577,
+       "energía"
+      ],
+      [
+       27.202,
+       "que"
+      ],
+      [
+       27.392,
+       "podemos"
+      ],
+      [
+       28.017,
+       "aprovechar"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e02_2.wav",
+     "ini": 29.707,
+     "fin": 34.875,
+     "dur": 5.168,
+     "ppm": 139,
+     "cortes": [
+      {
+       "ini": 29.707,
+       "texto": "Parte se pierde durante la conducción;",
+       "fin": 32.508
+      },
+      {
+       "ini": 32.508,
+       "texto": "por eso usamos el salto neto.",
+       "fin": 34.875
+      }
+     ],
+     "palabras": [
+      [
+       29.707,
+       "Parte"
+      ],
+      [
+       30.065,
+       "se"
+      ],
+      [
+       30.258,
+       "pierde"
+      ],
+      [
+       30.688,
+       "durante"
+      ],
+      [
+       31.16,
+       "la"
+      ],
+      [
+       31.318,
+       "conducción"
+      ],
+      [
+       32.588,
+       "por"
+      ],
+      [
+       33.104,
+       "usamos"
+      ],
+      [
+       32.824,
+       "eso"
+      ],
+      [
+       33.712,
+       "el"
+      ],
+      [
+       33.85,
+       "salto"
+      ],
+      [
+       34.315,
+       "neto"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e02_3.wav",
+     "ini": 35.875,
+     "fin": 49.896,
+     "dur": 14.021,
+     "ppm": 120,
+     "cortes": [
+      {
+       "ini": 35.875,
+       "texto": "En este ejemplo, 400 metros de salto",
+       "fin": 39.464
+      },
+      {
+       "ini": 39.464,
+       "texto": "y 8,5 metros cúbicos por segundo",
+       "fin": 42.648
+      },
+      {
+       "ini": 42.648,
+       "texto": "permiten obtener alrededor de 30 megavatios,",
+       "fin": 46.45
+      },
+      {
+       "ini": 46.45,
+       "texto": "considerando las pérdidas de turbina y generador.",
+       "fin": 49.896
+      }
+     ],
+     "palabras": [
+      [
+       35.894,
+       "En"
+      ],
+      [
+       36.066,
+       "este"
+      ],
+      [
+       36.368,
+       "ejemplo"
+      ],
+      [
+       37.435,
+       "cuatrocientos"
+      ],
+      [
+       38.456,
+       "metros"
+      ],
+      [
+       38.901,
+       "de"
+      ],
+      [
+       39.014,
+       "salto"
+      ],
+      [
+       39.544,
+       "y"
+      ],
+      [
+       39.676,
+       "ocho"
+      ],
+      [
+       39.98,
+       "coma"
+      ],
+      [
+       40.354,
+       "cinco"
+      ],
+      [
+       40.866,
+       "metros"
+      ],
+      [
+       41.347,
+       "cúbicos"
+      ],
+      [
+       41.956,
+       "por"
+      ],
+      [
+       42.179,
+       "segundo"
+      ],
+      [
+       42.728,
+       "permiten"
+      ],
+      [
+       43.363,
+       "obtener"
+      ],
+      [
+       43.906,
+       "alrededor"
+      ],
+      [
+       44.549,
+       "de"
+      ],
+      [
+       44.696,
+       "treinta"
+      ],
+      [
+       45.246,
+       "megavatios"
+      ],
+      [
+       46.53,
+       "considerando"
+      ],
+      [
+       47.371,
+       "las"
+      ],
+      [
+       47.616,
+       "pérdidas"
+      ],
+      [
+       48.189,
+       "de"
+      ],
+      [
+       48.307,
+       "turbina"
+      ],
+      [
+       48.926,
+       "y"
+      ],
+      [
+       49.055,
+       "generador"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "ini": 51,
+   "fin": 81,
+   "holgura": 1.27,
+   "frases": [
+    {
+     "archivo": "audio/voz/e03_1.wav",
+     "ini": 53.0,
+     "fin": 58.634,
+     "dur": 5.634,
+     "ppm": 160,
+     "cortes": [
+      {
+       "ini": 53.0,
+       "texto": "En la boquilla, la presión del agua",
+       "fin": 55.458
+      },
+      {
+       "ini": 55.458,
+       "texto": "se transforma en un chorro de alta velocidad.",
+       "fin": 58.634
+      }
+     ],
+     "palabras": [
+      [
+       53.019,
+       "En"
+      ],
+      [
+       53.151,
+       "la"
+      ],
+      [
+       53.291,
+       "boquilla"
+      ],
+      [
+       54.332,
+       "la"
+      ],
+      [
+       54.512,
+       "presión"
+      ],
+      [
+       55.06,
+       "del"
+      ],
+      [
+       55.259,
+       "agua"
+      ],
+      [
+       55.538,
+       "se"
+      ],
+      [
+       55.73,
+       "transforma"
+      ],
+      [
+       56.524,
+       "en"
+      ],
+      [
+       56.675,
+       "un"
+      ],
+      [
+       56.845,
+       "chorro"
+      ],
+      [
+       57.24,
+       "de"
+      ],
+      [
+       57.396,
+       "alta"
+      ],
+      [
+       57.755,
+       "velocidad"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e03_2.wav",
+     "ini": 59.434,
+     "fin": 65.426,
+     "dur": 5.992,
+     "ppm": 140,
+     "cortes": [
+      {
+       "ini": 59.434,
+       "texto": "El chorro golpea tangencialmente",
+       "fin": 61.617
+      },
+      {
+       "ini": 61.617,
+       "texto": "las cucharas de la turbina Pelton",
+       "fin": 63.802
+      },
+      {
+       "ini": 63.802,
+       "texto": "y cambia de dirección.",
+       "fin": 65.426
+      }
+     ],
+     "palabras": [
+      [
+       59.442,
+       "El"
+      ],
+      [
+       59.585,
+       "chorro"
+      ],
+      [
+       59.971,
+       "golpea"
+      ],
+      [
+       60.506,
+       "tangencialmente"
+      ],
+      [
+       61.697,
+       "las"
+      ],
+      [
+       61.941,
+       "cucharas"
+      ],
+      [
+       62.525,
+       "de"
+      ],
+      [
+       62.631,
+       "la"
+      ],
+      [
+       62.783,
+       "turbina"
+      ],
+      [
+       63.354,
+       "Pelton"
+      ],
+      [
+       63.882,
+       "y"
+      ],
+      [
+       63.975,
+       "cambia"
+      ],
+      [
+       64.436,
+       "de"
+      ],
+      [
+       64.576,
+       "dirección"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e03_3.wav",
+     "ini": 66.026,
+     "fin": 69.072,
+     "dur": 3.045,
+     "ppm": 138,
+     "cortes": [
+      {
+       "ini": 66.026,
+       "texto": "Esa interacción produce el giro del rodete.",
+       "fin": 69.072
+      }
+     ],
+     "palabras": [
+      [
+       66.04,
+       "Esa"
+      ],
+      [
+       66.312,
+       "interacción"
+      ],
+      [
+       67.122,
+       "produce"
+      ],
+      [
+       67.692,
+       "el"
+      ],
+      [
+       67.825,
+       "giro"
+      ],
+      [
+       68.187,
+       "del"
+      ],
+      [
+       68.377,
+       "rodete"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e03_4.wav",
+     "ini": 72.272,
+     "fin": 79.728,
+     "dur": 7.456,
+     "ppm": 137,
+     "cortes": [
+      {
+       "ini": 72.272,
+       "texto": "El eje transmite la potencia mecánica al generador,",
+       "fin": 76.158
+      },
+      {
+       "ini": 76.158,
+       "texto": "mientras el agua sale hacia el canal de restitución.",
+       "fin": 79.728
+      }
+     ],
+     "palabras": [
+      [
+       72.284,
+       "El"
+      ],
+      [
+       72.448,
+       "eje"
+      ],
+      [
+       72.725,
+       "transmite"
+      ],
+      [
+       73.44,
+       "la"
+      ],
+      [
+       73.597,
+       "potencia"
+      ],
+      [
+       74.261,
+       "mecánica"
+      ],
+      [
+       74.966,
+       "al"
+      ],
+      [
+       75.105,
+       "generador"
+      ],
+      [
+       76.238,
+       "mientras"
+      ],
+      [
+       76.83,
+       "el"
+      ],
+      [
+       76.978,
+       "agua"
+      ],
+      [
+       77.257,
+       "sale"
+      ],
+      [
+       77.633,
+       "hacia"
+      ],
+      [
+       77.941,
+       "el"
+      ],
+      [
+       78.061,
+       "canal"
+      ],
+      [
+       78.523,
+       "de"
+      ],
+      [
+       78.658,
+       "restitución"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "ini": 81,
+   "fin": 114,
+   "holgura": 1.18,
+   "frases": [
+    {
+     "archivo": "audio/voz/e04_1.wav",
+     "ini": 83.4,
+     "fin": 85.449,
+     "dur": 2.049,
+     "ppm": 176,
+     "cortes": [
+      {
+       "ini": 83.4,
+       "texto": "El rotor gira con la turbina.",
+       "fin": 85.449
+      }
+     ],
+     "palabras": [
+      [
+       83.415,
+       "El"
+      ],
+      [
+       83.552,
+       "rotor"
+      ],
+      [
+       83.99,
+       "gira"
+      ],
+      [
+       84.36,
+       "con"
+      ],
+      [
+       84.589,
+       "la"
+      ],
+      [
+       84.721,
+       "turbina"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e04_2.wav",
+     "ini": 86.149,
+     "fin": 95.269,
+     "dur": 9.12,
+     "ppm": 125,
+     "cortes": [
+      {
+       "ini": 86.149,
+       "texto": "Sus electroimanes producen un campo magnético",
+       "fin": 89.396
+      },
+      {
+       "ini": 89.396,
+       "texto": "que cambia de posición respecto de los devanados",
+       "fin": 92.498
+      },
+      {
+       "ini": 92.498,
+       "texto": "del estator, que permanece fijo.",
+       "fin": 95.269
+      }
+     ],
+     "palabras": [
+      [
+       86.158,
+       "Sus"
+      ],
+      [
+       86.483,
+       "electroimanes"
+      ],
+      [
+       87.494,
+       "producen"
+      ],
+      [
+       88.135,
+       "un"
+      ],
+      [
+       88.297,
+       "campo"
+      ],
+      [
+       88.686,
+       "magnético"
+      ],
+      [
+       89.476,
+       "que"
+      ],
+      [
+       89.656,
+       "cambia"
+      ],
+      [
+       90.087,
+       "de"
+      ],
+      [
+       90.224,
+       "posición"
+      ],
+      [
+       90.917,
+       "respecto"
+      ],
+      [
+       91.583,
+       "de"
+      ],
+      [
+       91.708,
+       "los"
+      ],
+      [
+       91.923,
+       "devanados"
+      ],
+      [
+       92.578,
+       "del"
+      ],
+      [
+       92.754,
+       "estator"
+      ],
+      [
+       93.781,
+       "que"
+      ],
+      [
+       93.938,
+       "permanece"
+      ],
+      [
+       94.667,
+       "fijo"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e04_3.wav",
+     "ini": 95.969,
+     "fin": 98.022,
+     "dur": 2.053,
+     "ppm": 117,
+     "cortes": [
+      {
+       "ini": 95.969,
+       "texto": "Ese cambio induce tensión.",
+       "fin": 98.022
+      }
+     ],
+     "palabras": [
+      [
+       95.982,
+       "Ese"
+      ],
+      [
+       96.284,
+       "cambio"
+      ],
+      [
+       96.73,
+       "induce"
+      ],
+      [
+       97.24,
+       "tensión"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e04_4.wav",
+     "ini": 98.822,
+     "fin": 103.114,
+     "dur": 4.292,
+     "ppm": 112,
+     "cortes": [
+      {
+       "ini": 98.822,
+       "texto": "Los devanados están organizados",
+       "fin": 101.025
+      },
+      {
+       "ini": 101.025,
+       "texto": "para producir tres fases.",
+       "fin": 103.114
+      }
+     ],
+     "palabras": [
+      [
+       98.838,
+       "Los"
+      ],
+      [
+       99.087,
+       "devanados"
+      ],
+      [
+       99.796,
+       "están"
+      ],
+      [
+       100.207,
+       "organizados"
+      ],
+      [
+       101.105,
+       "para"
+      ],
+      [
+       101.377,
+       "producir"
+      ],
+      [
+       102.037,
+       "tres"
+      ],
+      [
+       102.375,
+       "fases"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e04_5.wav",
+     "ini": 104.014,
+     "fin": 112.821,
+     "dur": 8.807,
+     "ppm": 109,
+     "cortes": [
+      {
+       "ini": 104.014,
+       "texto": "En esta máquina ilustrativa, 20 polos",
+       "fin": 107.295
+      },
+      {
+       "ini": 107.295,
+       "texto": "y 360 revoluciones por minuto",
+       "fin": 110.345
+      },
+      {
+       "ini": 110.345,
+       "texto": "corresponden a 60 hercios.",
+       "fin": 112.821
+      }
+     ],
+     "palabras": [
+      [
+       104.033,
+       "En"
+      ],
+      [
+       104.205,
+       "esta"
+      ],
+      [
+       104.512,
+       "máquina"
+      ],
+      [
+       105.03,
+       "ilustrativa"
+      ],
+      [
+       106.357,
+       "veinte"
+      ],
+      [
+       106.854,
+       "polos"
+      ],
+      [
+       107.375,
+       "y"
+      ],
+      [
+       107.475,
+       "trescientas"
+      ],
+      [
+       108.198,
+       "sesenta"
+      ],
+      [
+       108.775,
+       "revoluciones"
+      ],
+      [
+       109.709,
+       "por"
+      ],
+      [
+       109.935,
+       "minuto"
+      ],
+      [
+       110.425,
+       "corresponden"
+      ],
+      [
+       111.288,
+       "a"
+      ],
+      [
+       111.37,
+       "sesenta"
+      ],
+      [
+       112.03,
+       "hercios"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "ini": 114,
+   "fin": 144,
+   "holgura": 1.31,
+   "frases": [
+    {
+     "archivo": "audio/voz/e05_1.wav",
+     "ini": 115.2,
+     "fin": 123.51,
+     "dur": 8.31,
+     "ppm": 130,
+     "cortes": [
+      {
+       "ini": 115.2,
+       "texto": "Antes de conectar el generador,",
+       "fin": 117.55
+      },
+      {
+       "ini": 117.55,
+       "texto": "su tensión, frecuencia y posición de fase",
+       "fin": 121.08
+      },
+      {
+       "ini": 121.08,
+       "texto": "deben ser compatibles con la red.",
+       "fin": 123.51
+      }
+     ],
+     "palabras": [
+      [
+       115.22,
+       "Antes"
+      ],
+      [
+       115.607,
+       "de"
+      ],
+      [
+       115.718,
+       "conectar"
+      ],
+      [
+       116.36,
+       "el"
+      ],
+      [
+       116.49,
+       "generador"
+      ],
+      [
+       117.63,
+       "su"
+      ],
+      [
+       117.87,
+       "tensión"
+      ],
+      [
+       118.94,
+       "frecuencia"
+      ],
+      [
+       119.77,
+       "y"
+      ],
+      [
+       119.9,
+       "posición"
+      ],
+      [
+       120.607,
+       "de"
+      ],
+      [
+       120.719,
+       "fase"
+      ],
+      [
+       121.16,
+       "deben"
+      ],
+      [
+       121.52,
+       "ser"
+      ],
+      [
+       121.804,
+       "compatibles"
+      ],
+      [
+       122.69,
+       "con"
+      ],
+      [
+       122.931,
+       "la"
+      ],
+      [
+       123.07,
+       "red"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e05_2.wav",
+     "ini": 124.31,
+     "fin": 128.637,
+     "dur": 4.328,
+     "ppm": 111,
+     "cortes": [
+      {
+       "ini": 124.31,
+       "texto": "Después del cierre del interruptor,",
+       "fin": 126.803
+      },
+      {
+       "ini": 126.803,
+       "texto": "puede entregar potencia.",
+       "fin": 128.637
+      }
+     ],
+     "palabras": [
+      [
+       124.332,
+       "Después"
+      ],
+      [
+       124.841,
+       "del"
+      ],
+      [
+       125.029,
+       "cierre"
+      ],
+      [
+       125.449,
+       "del"
+      ],
+      [
+       125.645,
+       "interruptor"
+      ],
+      [
+       126.883,
+       "puede"
+      ],
+      [
+       127.213,
+       "entregar"
+      ],
+      [
+       127.763,
+       "potencia"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e05_3.wav",
+     "ini": 129.637,
+     "fin": 135.633,
+     "dur": 5.996,
+     "ppm": 130,
+     "cortes": [
+      {
+       "ini": 129.637,
+       "texto": "El transformador eleva la tensión",
+       "fin": 131.721
+      },
+      {
+       "ini": 131.721,
+       "texto": "de 13,8 a 230 kilovoltios.",
+       "fin": 135.633
+      }
+     ],
+     "palabras": [
+      [
+       129.645,
+       "El"
+      ],
+      [
+       129.789,
+       "transformador"
+      ],
+      [
+       130.691,
+       "eleva"
+      ],
+      [
+       131.06,
+       "la"
+      ],
+      [
+       131.219,
+       "tensión"
+      ],
+      [
+       131.801,
+       "de"
+      ],
+      [
+       131.939,
+       "trece"
+      ],
+      [
+       132.364,
+       "coma"
+      ],
+      [
+       132.789,
+       "ocho"
+      ],
+      [
+       133.149,
+       "a"
+      ],
+      [
+       133.238,
+       "doscientos"
+      ],
+      [
+       133.949,
+       "treinta"
+      ],
+      [
+       134.514,
+       "kilovoltios"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e05_4.wav",
+     "ini": 136.233,
+     "fin": 142.687,
+     "dur": 6.453,
+     "ppm": 139,
+     "cortes": [
+      {
+       "ini": 136.233,
+       "texto": "Así se transmite la misma potencia",
+       "fin": 138.635
+      },
+      {
+       "ini": 138.635,
+       "texto": "con menor corriente y menores pérdidas",
+       "fin": 141.195
+      },
+      {
+       "ini": 141.195,
+       "texto": "en los conductores.",
+       "fin": 142.687
+      }
+     ],
+     "palabras": [
+      [
+       136.254,
+       "Así"
+      ],
+      [
+       136.573,
+       "se"
+      ],
+      [
+       136.767,
+       "transmite"
+      ],
+      [
+       137.484,
+       "la"
+      ],
+      [
+       137.625,
+       "misma"
+      ],
+      [
+       138.042,
+       "potencia"
+      ],
+      [
+       138.715,
+       "con"
+      ],
+      [
+       138.953,
+       "menor"
+      ],
+      [
+       139.343,
+       "corriente"
+      ],
+      [
+       139.993,
+       "y"
+      ],
+      [
+       140.123,
+       "menores"
+      ],
+      [
+       140.663,
+       "pérdidas"
+      ],
+      [
+       141.275,
+       "en"
+      ],
+      [
+       141.394,
+       "los"
+      ],
+      [
+       141.603,
+       "conductores"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "ini": 144,
+   "fin": 174,
+   "holgura": 1.63,
+   "frases": [
+    {
+     "archivo": "audio/voz/e06_1.wav",
+     "ini": 145.4,
+     "fin": 150.955,
+     "dur": 5.555,
+     "ppm": 140,
+     "cortes": [
+      {
+       "ini": 145.4,
+       "texto": "La energía recorre la transmisión",
+       "fin": 147.634
+      },
+      {
+       "ini": 147.634,
+       "texto": "y llega a subestaciones que reducen la tensión.",
+       "fin": 150.955
+      }
+     ],
+     "palabras": [
+      [
+       145.417,
+       "La"
+      ],
+      [
+       145.584,
+       "energía"
+      ],
+      [
+       146.229,
+       "recorre"
+      ],
+      [
+       146.748,
+       "la"
+      ],
+      [
+       146.896,
+       "transmisión"
+      ],
+      [
+       147.714,
+       "y"
+      ],
+      [
+       147.806,
+       "llega"
+      ],
+      [
+       148.166,
+       "a"
+      ],
+      [
+       148.26,
+       "subestaciones"
+      ],
+      [
+       149.316,
+       "que"
+      ],
+      [
+       149.486,
+       "reducen"
+      ],
+      [
+       150.047,
+       "la"
+      ],
+      [
+       150.186,
+       "tensión"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e06_2.wav",
+     "ini": 152.155,
+     "fin": 156.757,
+     "dur": 4.602,
+     "ppm": 117,
+     "cortes": [
+      {
+       "ini": 152.155,
+       "texto": "Después pasa por subtransmisión",
+       "fin": 154.368
+      },
+      {
+       "ini": 154.368,
+       "texto": "y alimentadores de media tensión.",
+       "fin": 156.757
+      }
+     ],
+     "palabras": [
+      [
+       152.177,
+       "Después"
+      ],
+      [
+       152.716,
+       "pasa"
+      ],
+      [
+       153.128,
+       "por"
+      ],
+      [
+       153.365,
+       "subtransmisión"
+      ],
+      [
+       154.448,
+       "y"
+      ],
+      [
+       154.549,
+       "alimentadores"
+      ],
+      [
+       155.495,
+       "de"
+      ],
+      [
+       155.608,
+       "media"
+      ],
+      [
+       155.989,
+       "tensión"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e06_3.wav",
+     "ini": 157.957,
+     "fin": 163.843,
+     "dur": 5.886,
+     "ppm": 133,
+     "cortes": [
+      {
+       "ini": 157.957,
+       "texto": "Un transformador de distribución adapta el suministro",
+       "fin": 161.374
+      },
+      {
+       "ini": 161.374,
+       "texto": "para los usuarios de baja tensión.",
+       "fin": 163.843
+      }
+     ],
+     "palabras": [
+      [
+       157.971,
+       "Un"
+      ],
+      [
+       158.147,
+       "transformador"
+      ],
+      [
+       159.06,
+       "de"
+      ],
+      [
+       159.19,
+       "distribución"
+      ],
+      [
+       160.087,
+       "adapta"
+      ],
+      [
+       160.58,
+       "el"
+      ],
+      [
+       160.7,
+       "suministro"
+      ],
+      [
+       161.454,
+       "para"
+      ],
+      [
+       161.74,
+       "los"
+      ],
+      [
+       161.996,
+       "usuarios"
+      ],
+      [
+       162.574,
+       "de"
+      ],
+      [
+       162.688,
+       "baja"
+      ],
+      [
+       163.06,
+       "tensión"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e06_4.wav",
+     "ini": 164.943,
+     "fin": 172.373,
+     "dur": 7.431,
+     "ppm": 121,
+     "cortes": [
+      {
+       "ini": 164.943,
+       "texto": "Cada nivel necesita equipos de maniobra,",
+       "fin": 167.965
+      },
+      {
+       "ini": 167.965,
+       "texto": "medición y protección",
+       "fin": 169.487
+      },
+      {
+       "ini": 169.487,
+       "texto": "para operar con seguridad y continuidad.",
+       "fin": 172.373
+      }
+     ],
+     "palabras": [
+      [
+       164.943,
+       "Cada"
+      ],
+      [
+       165.209,
+       "nivel"
+      ],
+      [
+       165.58,
+       "necesita"
+      ],
+      [
+       166.316,
+       "equipos"
+      ],
+      [
+       166.848,
+       "de"
+      ],
+      [
+       166.948,
+       "maniobra"
+      ],
+      [
+       168.045,
+       "medición"
+      ],
+      [
+       168.696,
+       "y"
+      ],
+      [
+       168.789,
+       "protección"
+      ],
+      [
+       169.567,
+       "para"
+      ],
+      [
+       169.825,
+       "operar"
+      ],
+      [
+       170.301,
+       "con"
+      ],
+      [
+       170.546,
+       "seguridad"
+      ],
+      [
+       171.26,
+       "y"
+      ],
+      [
+       171.359,
+       "continuidad"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "ini": 174,
+   "fin": 217,
+   "holgura": 3.2,
+   "frases": [
+    {
+     "archivo": "audio/voz/e07_1.wav",
+     "ini": 177.0,
+     "fin": 185.512,
+     "dur": 8.512,
+     "ppm": 120,
+     "cortes": [
+      {
+       "ini": 177.0,
+       "texto": "Para observar la respuesta,",
+       "fin": 179.124
+      },
+      {
+       "ini": 179.124,
+       "texto": "aislamos un sistema equivalente",
+       "fin": 181.389
+      },
+      {
+       "ini": 181.389,
+       "texto": "y aumentamos su demanda",
+       "fin": 182.947
+      },
+      {
+       "ini": 182.947,
+       "texto": "de 20 a 23 megavatios.",
+       "fin": 185.512
+      }
+     ],
+     "palabras": [
+      [
+       177.0,
+       "Para"
+      ],
+      [
+       177.234,
+       "observar"
+      ],
+      [
+       177.838,
+       "la"
+      ],
+      [
+       177.996,
+       "respuesta"
+      ],
+      [
+       179.204,
+       "aislamos"
+      ],
+      [
+       179.893,
+       "un"
+      ],
+      [
+       180.048,
+       "sistema"
+      ],
+      [
+       180.648,
+       "equivalente"
+      ],
+      [
+       181.469,
+       "y"
+      ],
+      [
+       181.602,
+       "aumentamos"
+      ],
+      [
+       182.361,
+       "su"
+      ],
+      [
+       182.518,
+       "demanda"
+      ],
+      [
+       183.027,
+       "de"
+      ],
+      [
+       183.158,
+       "veinte"
+      ],
+      [
+       183.658,
+       "a"
+      ],
+      [
+       183.748,
+       "veintitrés"
+      ],
+      [
+       184.507,
+       "megavatios"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e07_2.wav",
+     "ini": 186.512,
+     "fin": 191.577,
+     "dur": 5.065,
+     "ppm": 95,
+     "cortes": [
+      {
+       "ini": 186.512,
+       "texto": "Al principio, la potencia mecánica",
+       "fin": 189.395
+      },
+      {
+       "ini": 189.395,
+       "texto": "no cambia instantáneamente:",
+       "fin": 191.577
+      }
+     ],
+     "palabras": [
+      [
+       186.536,
+       "Al"
+      ],
+      [
+       186.685,
+       "principio"
+      ],
+      [
+       187.911,
+       "la"
+      ],
+      [
+       188.092,
+       "potencia"
+      ],
+      [
+       188.751,
+       "mecánica"
+      ],
+      [
+       189.475,
+       "no"
+      ],
+      [
+       189.689,
+       "cambia"
+      ],
+      [
+       190.165,
+       "instantáneamente"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e07_3.wav",
+     "ini": 191.927,
+     "fin": 197.224,
+     "dur": 5.297,
+     "ppm": 147,
+     "cortes": [
+      {
+       "ini": 191.927,
+       "texto": "la energía de rotación ayuda a cubrir el déficit",
+       "fin": 195.273
+      },
+      {
+       "ini": 195.273,
+       "texto": "y la frecuencia disminuye.",
+       "fin": 197.224
+      }
+     ],
+     "palabras": [
+      [
+       191.944,
+       "la"
+      ],
+      [
+       192.111,
+       "energía"
+      ],
+      [
+       192.75,
+       "de"
+      ],
+      [
+       192.889,
+       "rotación"
+      ],
+      [
+       193.572,
+       "ayuda"
+      ],
+      [
+       194.024,
+       "a"
+      ],
+      [
+       194.112,
+       "cubrir"
+      ],
+      [
+       194.586,
+       "el"
+      ],
+      [
+       194.73,
+       "déficit"
+      ],
+      [
+       195.353,
+       "y"
+      ],
+      [
+       195.467,
+       "la"
+      ],
+      [
+       195.618,
+       "frecuencia"
+      ],
+      [
+       196.347,
+       "disminuye"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e07_4.wav",
+     "ini": 198.624,
+     "fin": 203.092,
+     "dur": 4.468,
+     "ppm": 148,
+     "cortes": [
+      {
+       "ini": 198.624,
+       "texto": "El gobernador aumenta la admisión de agua",
+       "fin": 201.226
+      },
+      {
+       "ini": 201.226,
+       "texto": "y aporta más potencia.",
+       "fin": 203.092
+      }
+     ],
+     "palabras": [
+      [
+       198.632,
+       "El"
+      ],
+      [
+       198.775,
+       "gobernador"
+      ],
+      [
+       199.516,
+       "aumenta"
+      ],
+      [
+       200.076,
+       "la"
+      ],
+      [
+       200.206,
+       "admisión"
+      ],
+      [
+       200.813,
+       "de"
+      ],
+      [
+       200.951,
+       "agua"
+      ],
+      [
+       201.306,
+       "y"
+      ],
+      [
+       201.433,
+       "aporta"
+      ],
+      [
+       201.956,
+       "más"
+      ],
+      [
+       202.256,
+       "potencia"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e07_5.wav",
+     "ini": 204.492,
+     "fin": 207.415,
+     "dur": 2.923,
+     "ppm": 123,
+     "cortes": [
+      {
+       "ini": 204.492,
+       "texto": "La regulación primaria contiene la caída;",
+       "fin": 207.415
+      }
+     ],
+     "palabras": [
+      [
+       204.51,
+       "La"
+      ],
+      [
+       204.685,
+       "regulación"
+      ],
+      [
+       205.466,
+       "primaria"
+      ],
+      [
+       206.019,
+       "contiene"
+      ],
+      [
+       206.597,
+       "la"
+      ],
+      [
+       206.747,
+       "caída"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e07_6.wav",
+     "ini": 208.315,
+     "fin": 213.798,
+     "dur": 5.483,
+     "ppm": 120,
+     "cortes": [
+      {
+       "ini": 208.315,
+       "texto": "una acción secundaria ajusta la consigna",
+       "fin": 211.131
+      },
+      {
+       "ini": 211.131,
+       "texto": "para recuperar los 60 hercios.",
+       "fin": 213.798
+      }
+     ],
+     "palabras": [
+      [
+       208.33,
+       "una"
+      ],
+      [
+       208.555,
+       "acción"
+      ],
+      [
+       209.044,
+       "secundaria"
+      ],
+      [
+       209.813,
+       "ajusta"
+      ],
+      [
+       210.336,
+       "la"
+      ],
+      [
+       210.483,
+       "consigna"
+      ],
+      [
+       211.211,
+       "para"
+      ],
+      [
+       211.517,
+       "recuperar"
+      ],
+      [
+       212.205,
+       "los"
+      ],
+      [
+       212.41,
+       "sesenta"
+      ],
+      [
+       213.01,
+       "hercios"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "ini": 217,
+   "fin": 254.5,
+   "holgura": 3.3,
+   "frases": [
+    {
+     "archivo": "audio/voz/e08_1.wav",
+     "ini": 219.6,
+     "fin": 225.089,
+     "dur": 5.489,
+     "ppm": 153,
+     "cortes": [
+      {
+       "ini": 219.6,
+       "texto": "Un aumento de demanda reactiva",
+       "fin": 221.534
+      },
+      {
+       "ini": 221.534,
+       "texto": "puede reducir la tensión en el punto de conexión.",
+       "fin": 225.089
+      }
+     ],
+     "palabras": [
+      [
+       219.614,
+       "Un"
+      ],
+      [
+       219.789,
+       "aumento"
+      ],
+      [
+       220.349,
+       "de"
+      ],
+      [
+       220.482,
+       "demanda"
+      ],
+      [
+       220.999,
+       "reactiva"
+      ],
+      [
+       221.614,
+       "puede"
+      ],
+      [
+       221.983,
+       "reducir"
+      ],
+      [
+       222.567,
+       "la"
+      ],
+      [
+       222.724,
+       "tensión"
+      ],
+      [
+       223.303,
+       "en"
+      ],
+      [
+       223.461,
+       "el"
+      ],
+      [
+       223.585,
+       "punto"
+      ],
+      [
+       224.027,
+       "de"
+      ],
+      [
+       224.159,
+       "conexión"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e08_2.wav",
+     "ini": 225.889,
+     "fin": 230.845,
+     "dur": 4.956,
+     "ppm": 109,
+     "cortes": [
+      {
+       "ini": 225.889,
+       "texto": "Aquí interviene otro control:",
+       "fin": 228.173
+      },
+      {
+       "ini": 228.173,
+       "texto": "el regulador automático de tensión.",
+       "fin": 230.845
+      }
+     ],
+     "palabras": [
+      [
+       225.914,
+       "Aquí"
+      ],
+      [
+       226.213,
+       "interviene"
+      ],
+      [
+       226.887,
+       "otro"
+      ],
+      [
+       227.23,
+       "control"
+      ],
+      [
+       228.253,
+       "el"
+      ],
+      [
+       228.403,
+       "regulador"
+      ],
+      [
+       229.059,
+       "automático"
+      ],
+      [
+       229.939,
+       "de"
+      ],
+      [
+       230.083,
+       "tensión"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e08_3.wav",
+     "ini": 231.545,
+     "fin": 238.728,
+     "dur": 7.183,
+     "ppm": 134,
+     "cortes": [
+      {
+       "ini": 231.545,
+       "texto": "Ajusta la excitación del rotor",
+       "fin": 233.573
+      },
+      {
+       "ini": 233.573,
+       "texto": "para modificar la respuesta eléctrica del generador",
+       "fin": 237.097
+      },
+      {
+       "ini": 237.097,
+       "texto": "y apoyar la tensión.",
+       "fin": 238.728
+      }
+     ],
+     "palabras": [
+      [
+       231.564,
+       "Ajusta"
+      ],
+      [
+       232.114,
+       "la"
+      ],
+      [
+       232.24,
+       "excitación"
+      ],
+      [
+       233.03,
+       "del"
+      ],
+      [
+       233.198,
+       "rotor"
+      ],
+      [
+       233.653,
+       "para"
+      ],
+      [
+       233.952,
+       "modificar"
+      ],
+      [
+       234.705,
+       "la"
+      ],
+      [
+       234.854,
+       "respuesta"
+      ],
+      [
+       235.544,
+       "eléctrica"
+      ],
+      [
+       236.299,
+       "del"
+      ],
+      [
+       236.497,
+       "generador"
+      ],
+      [
+       237.177,
+       "y"
+      ],
+      [
+       237.295,
+       "apoyar"
+      ],
+      [
+       237.805,
+       "la"
+      ],
+      [
+       237.954,
+       "tensión"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e08_4.wav",
+     "ini": 239.428,
+     "fin": 243.248,
+     "dur": 3.819,
+     "ppm": 157,
+     "cortes": [
+      {
+       "ini": 239.428,
+       "texto": "Su acción está limitada",
+       "fin": 241.081
+      },
+      {
+       "ini": 241.081,
+       "texto": "por la capacidad de la máquina.",
+       "fin": 243.248
+      }
+     ],
+     "palabras": [
+      [
+       239.437,
+       "Su"
+      ],
+      [
+       239.643,
+       "acción"
+      ],
+      [
+       240.143,
+       "está"
+      ],
+      [
+       240.483,
+       "limitada"
+      ],
+      [
+       241.161,
+       "por"
+      ],
+      [
+       241.4,
+       "la"
+      ],
+      [
+       241.551,
+       "capacidad"
+      ],
+      [
+       242.314,
+       "de"
+      ],
+      [
+       242.439,
+       "la"
+      ],
+      [
+       242.584,
+       "máquina"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e08_5.wav",
+     "ini": 244.048,
+     "fin": 251.196,
+     "dur": 7.149,
+     "ppm": 117,
+     "cortes": [
+      {
+       "ini": 244.048,
+       "texto": "El gobernador y la excitación",
+       "fin": 245.871
+      },
+      {
+       "ini": 245.871,
+       "texto": "cumplen funciones diferentes,",
+       "fin": 248.293
+      },
+      {
+       "ini": 248.293,
+       "texto": "aunque trabajan dentro del mismo sistema.",
+       "fin": 251.196
+      }
+     ],
+     "palabras": [
+      [
+       244.056,
+       "El"
+      ],
+      [
+       244.199,
+       "gobernador"
+      ],
+      [
+       244.949,
+       "y"
+      ],
+      [
+       245.042,
+       "la"
+      ],
+      [
+       245.177,
+       "excitación"
+      ],
+      [
+       245.951,
+       "cumplen"
+      ],
+      [
+       246.462,
+       "funciones"
+      ],
+      [
+       247.155,
+       "diferentes"
+      ],
+      [
+       248.373,
+       "aunque"
+      ],
+      [
+       248.774,
+       "trabajan"
+      ],
+      [
+       249.417,
+       "dentro"
+      ],
+      [
+       249.8,
+       "del"
+      ],
+      [
+       250.002,
+       "mismo"
+      ],
+      [
+       250.42,
+       "sistema"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "ini": 254.5,
+   "fin": 285,
+   "holgura": 4.17,
+   "frases": [
+    {
+     "archivo": "audio/voz/e09_1.wav",
+     "ini": 255.5,
+     "fin": 262.608,
+     "dur": 7.108,
+     "ppm": 127,
+     "cortes": [
+      {
+       "ini": 255.5,
+       "texto": "El agua aporta energía, la turbina produce movimiento",
+       "fin": 259.586
+      },
+      {
+       "ini": 259.586,
+       "texto": "y el generador lo convierte en electricidad.",
+       "fin": 262.608
+      }
+     ],
+     "palabras": [
+      [
+       255.512,
+       "El"
+      ],
+      [
+       255.673,
+       "agua"
+      ],
+      [
+       255.98,
+       "aporta"
+      ],
+      [
+       256.48,
+       "energía"
+      ],
+      [
+       257.576,
+       "la"
+      ],
+      [
+       257.765,
+       "turbina"
+      ],
+      [
+       258.337,
+       "produce"
+      ],
+      [
+       258.886,
+       "movimiento"
+      ],
+      [
+       259.666,
+       "y"
+      ],
+      [
+       259.798,
+       "el"
+      ],
+      [
+       259.924,
+       "generador"
+      ],
+      [
+       260.591,
+       "lo"
+      ],
+      [
+       260.743,
+       "convierte"
+      ],
+      [
+       261.386,
+       "en"
+      ],
+      [
+       261.536,
+       "electricidad"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e09_2.wav",
+     "ini": 263.108,
+     "fin": 267.159,
+     "dur": 4.051,
+     "ppm": 89,
+     "cortes": [
+      {
+       "ini": 263.108,
+       "texto": "Los transformadores permiten",
+       "fin": 264.958
+      },
+      {
+       "ini": 264.958,
+       "texto": "transportarla y distribuirla.",
+       "fin": 267.159
+      }
+     ],
+     "palabras": [
+      [
+       263.125,
+       "Los"
+      ],
+      [
+       263.374,
+       "transformadores"
+      ],
+      [
+       264.43,
+       "permiten"
+      ],
+      [
+       265.038,
+       "transportarla"
+      ],
+      [
+       266.024,
+       "y"
+      ],
+      [
+       266.159,
+       "distribuirla"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e09_3.wav",
+     "ini": 267.659,
+     "fin": 272.395,
+     "dur": 4.736,
+     "ppm": 127,
+     "cortes": [
+      {
+       "ini": 267.659,
+       "texto": "Los controles y las protecciones",
+       "fin": 269.885
+      },
+      {
+       "ini": 269.885,
+       "texto": "permiten operar dentro de límites.",
+       "fin": 272.395
+      }
+     ],
+     "palabras": [
+      [
+       267.676,
+       "Los"
+      ],
+      [
+       267.935,
+       "controles"
+      ],
+      [
+       268.685,
+       "y"
+      ],
+      [
+       268.799,
+       "las"
+      ],
+      [
+       269.042,
+       "protecciones"
+      ],
+      [
+       269.965,
+       "permiten"
+      ],
+      [
+       270.569,
+       "operar"
+      ],
+      [
+       271.021,
+       "dentro"
+      ],
+      [
+       271.43,
+       "de"
+      ],
+      [
+       271.553,
+       "límites"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz/e09_4.wav",
+     "ini": 272.995,
+     "fin": 280.828,
+     "dur": 7.832,
+     "ppm": 130,
+     "cortes": [
+      {
+       "ini": 272.995,
+       "texto": "Comprender la central exige seguir toda esa cadena,",
+       "fin": 276.866
+      },
+      {
+       "ini": 276.866,
+       "texto": "desde el recurso hidráulico",
+       "fin": 278.662
+      },
+      {
+       "ini": 278.662,
+       "texto": "hasta la necesidad del usuario.",
+       "fin": 280.828
+      }
+     ],
+     "palabras": [
+      [
+       272.995,
+       "Comprender"
+      ],
+      [
+       273.624,
+       "la"
+      ],
+      [
+       273.769,
+       "central"
+      ],
+      [
+       274.313,
+       "exige"
+      ],
+      [
+       274.875,
+       "seguir"
+      ],
+      [
+       275.313,
+       "toda"
+      ],
+      [
+       275.673,
+       "esa"
+      ],
+      [
+       275.963,
+       "cadena"
+      ],
+      [
+       276.946,
+       "desde"
+      ],
+      [
+       277.286,
+       "el"
+      ],
+      [
+       277.407,
+       "recurso"
+      ],
+      [
+       278.0,
+       "hidráulico"
+      ],
+      [
+       278.742,
+       "hasta"
+      ],
+      [
+       279.043,
+       "la"
+      ],
+      [
+       279.193,
+       "necesidad"
+      ],
+      [
+       279.923,
+       "del"
+      ],
+      [
+       280.104,
+       "usuario"
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "resumen": {
+  "palabras": 480,
+  "segundos_de_voz": 224.6,
+  "ppm_solo_voz": 128,
+  "ppm_con_pausas_entre_frases": 118
+ }
+}

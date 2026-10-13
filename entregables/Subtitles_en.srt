@@ -1,0 +1,355 @@
+﻿1
+00:00:01,000 --> 00:00:02,635
+How does water in a reservoir
+
+2
+00:00:02,675 --> 00:00:04,466
+become electricity for a city?
+
+3
+00:00:06,702 --> 00:00:09,262
+The journey combines hydraulic energy,
+
+4
+00:00:09,302 --> 00:00:12,223
+mechanical motion and
+electrical phenomena.
+
+5
+00:00:13,887 --> 00:00:15,592
+We will follow it step by step
+
+6
+00:00:15,632 --> 00:00:17,681
+and then see how the plant responds
+
+7
+00:00:17,721 --> 00:00:19,884
+when the needs of the system change.
+
+8
+00:00:24,200 --> 00:00:25,599
+Head and flow determine
+
+9
+00:00:25,639 --> 00:00:27,109
+the energy we can use.
+
+10
+00:00:29,707 --> 00:00:32,269
+Part of it is lost along the conduit;
+
+11
+00:00:32,309 --> 00:00:34,183
+that is why we use the net head.
+
+12
+00:00:35,875 --> 00:00:39,095
+In this example, a head of 400 metres
+
+13
+00:00:39,135 --> 00:00:42,029
+and 8.5 cubic metres per second
+
+14
+00:00:42,069 --> 00:00:44,102
+yield about 30 megawatts,
+
+15
+00:00:44,142 --> 00:00:46,783
+after turbine and generator losses.
+
+16
+00:00:53,000 --> 00:00:55,130
+At the nozzle, the water pressure
+
+17
+00:00:55,170 --> 00:00:56,884
+becomes a high-speed jet.
+
+18
+00:00:59,434 --> 00:01:01,127
+The jet strikes the buckets
+
+19
+00:01:01,167 --> 00:01:03,346
+of the Pelton turbine tangentially
+
+20
+00:01:03,386 --> 00:01:04,827
+and changes direction.
+
+21
+00:01:06,026 --> 00:01:08,215
+That interaction makes the runner turn.
+
+22
+00:01:12,272 --> 00:01:15,438
+The shaft carries mechanical
+power to the generator,
+
+23
+00:01:15,478 --> 00:01:17,654
+while the water leaves
+through the tailrace.
+
+24
+00:01:23,400 --> 00:01:25,287
+The rotor turns with the turbine.
+
+25
+00:01:26,149 --> 00:01:28,810
+Its electromagnets
+produce a magnetic field
+
+26
+00:01:28,850 --> 00:01:30,673
+that moves past the windings
+
+27
+00:01:30,713 --> 00:01:33,365
+of the stator, which stays fixed.
+
+28
+00:01:35,969 --> 00:01:37,914
+That change induces voltage.
+
+29
+00:01:38,822 --> 00:01:40,180
+The windings are arranged
+
+30
+00:01:40,220 --> 00:01:41,638
+to produce three phases.
+
+31
+00:01:44,014 --> 00:01:46,581
+In this illustrative machine, 20 poles
+
+32
+00:01:46,621 --> 00:01:49,743
+and 360 revolutions per minute
+
+33
+00:01:49,783 --> 00:01:51,590
+correspond to 60 hertz.
+
+34
+00:01:55,200 --> 00:01:57,974
+Before connecting the generator,
+
+35
+00:01:58,014 --> 00:01:59,929
+its voltage, frequency and phase angle
+
+36
+00:01:59,969 --> 00:02:01,615
+must match those of the grid.
+
+37
+00:02:04,310 --> 00:02:05,862
+Once the breaker closes,
+
+38
+00:02:05,902 --> 00:02:07,080
+it can deliver power.
+
+39
+00:02:09,637 --> 00:02:11,844
+The transformer steps the voltage up
+
+40
+00:02:11,884 --> 00:02:15,565
+from 13.8 to 230 kilovolts.
+
+41
+00:02:16,233 --> 00:02:18,300
+The same power is then transmitted
+
+42
+00:02:18,340 --> 00:02:20,478
+with less current and lower losses
+
+43
+00:02:20,518 --> 00:02:21,685
+in the conductors.
+
+44
+00:02:25,400 --> 00:02:28,076
+Energy travels along the transmission line
+
+45
+00:02:28,116 --> 00:02:31,513
+and reaches substations
+that step the voltage down.
+
+46
+00:02:32,155 --> 00:02:34,663
+It then passes through subtransmission
+
+47
+00:02:34,703 --> 00:02:36,562
+and medium-voltage feeders.
+
+48
+00:02:37,957 --> 00:02:41,078
+A distribution transformer
+adapts the supply
+
+49
+00:02:41,118 --> 00:02:42,758
+for low-voltage users.
+
+50
+00:02:44,943 --> 00:02:46,849
+Every level needs switching,
+
+51
+00:02:46,889 --> 00:02:48,949
+metering and protection equipment
+
+52
+00:02:48,989 --> 00:02:51,730
+to operate safely and
+without interruption.
+
+53
+00:02:57,000 --> 00:02:58,829
+To observe the response,
+
+54
+00:02:58,869 --> 00:03:00,860
+we isolate an equivalent system
+
+55
+00:03:00,900 --> 00:03:02,213
+and raise its demand
+
+56
+00:03:02,253 --> 00:03:04,704
+from 20 to 23 megawatts.
+
+57
+00:03:06,512 --> 00:03:08,060
+At first, mechanical power
+
+58
+00:03:08,100 --> 00:03:09,816
+does not change instantly:
+
+59
+00:03:11,927 --> 00:03:14,442
+rotating energy helps cover the deficit
+
+60
+00:03:14,482 --> 00:03:16,125
+and the frequency falls.
+
+61
+00:03:18,624 --> 00:03:20,471
+The governor admits more water
+
+62
+00:03:20,511 --> 00:03:22,113
+and delivers more power.
+
+63
+00:03:24,492 --> 00:03:27,073
+Primary regulation arrests the drop;
+
+64
+00:03:28,315 --> 00:03:30,926
+a secondary action adjusts the setpoint
+
+65
+00:03:30,966 --> 00:03:33,999
+to bring the frequency back to 60 hertz.
+
+66
+00:03:39,600 --> 00:03:41,126
+A rise in reactive demand
+
+67
+00:03:41,166 --> 00:03:44,065
+can lower the voltage at
+the connection point.
+
+68
+00:03:45,889 --> 00:03:48,116
+Here another control steps in:
+
+69
+00:03:48,156 --> 00:03:50,145
+the automatic voltage regulator.
+
+70
+00:03:51,545 --> 00:03:53,262
+It adjusts the rotor excitation
+
+71
+00:03:53,302 --> 00:03:56,186
+to change the electrical
+response of the generator
+
+72
+00:03:56,226 --> 00:03:57,705
+and support the voltage.
+
+73
+00:03:59,428 --> 00:04:00,713
+Its action is limited
+
+74
+00:04:00,753 --> 00:04:02,929
+by the capability of the machine.
+
+75
+00:04:04,048 --> 00:04:06,202
+The governor and the excitation system
+
+76
+00:04:06,242 --> 00:04:07,900
+perform different functions,
+
+77
+00:04:07,940 --> 00:04:10,208
+although they work within the same system.
+
+78
+00:04:15,500 --> 00:04:19,084
+Water supplies energy, the
+turbine produces motion
+
+79
+00:04:19,124 --> 00:04:22,194
+and the generator converts
+it into electricity.
+
+80
+00:04:23,108 --> 00:04:24,803
+Transformers make it possible
+
+81
+00:04:24,843 --> 00:04:26,818
+to transmit and distribute it.
+
+82
+00:04:27,659 --> 00:04:29,217
+Controls and protection
+
+83
+00:04:29,257 --> 00:04:31,334
+keep operation within limits.
+
+84
+00:04:32,995 --> 00:04:36,241
+Understanding the plant means
+following that whole chain,
+
+85
+00:04:36,281 --> 00:04:37,504
+from the water resource
+
+86
+00:04:37,544 --> 00:04:38,957
+to the needs of the user.

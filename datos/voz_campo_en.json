@@ -1,0 +1,289 @@
+{
+ "voz": {
+  "motor": "piper",
+  "nombre": "en_US-ryan-high",
+  "velocidad": "1.32",
+  "idioma": "en-US",
+  "licencia": "Voz de Piper entrenada con RyanSpeech (CC BY-NC-SA 4.0): uso no comercial"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "ini": 0,
+   "fin": 24.0,
+   "holgura": 1.66,
+   "frases": [
+    {
+     "archivo": "audio/voz_campo_en/e01_1.wav",
+     "ini": 0.9,
+     "fin": 5.718,
+     "dur": 4.818,
+     "ppm": 174,
+     "cortes": [
+      {
+       "ini": 0.9,
+       "texto": "The stator stays still,",
+       "fin": 2.662
+      },
+      {
+       "ini": 2.662,
+       "texto": "but the currents in its three phases",
+       "fin": 4.696
+      },
+      {
+       "ini": 4.696,
+       "texto": "change over time.",
+       "fin": 5.718
+      }
+     ],
+     "palabras": [
+      [
+       0.9,
+       "The"
+      ],
+      [
+       1.179,
+       "stator"
+      ],
+      [
+       1.645,
+       "stays"
+      ],
+      [
+       2.049,
+       "still"
+      ],
+      [
+       2.742,
+       "but"
+      ],
+      [
+       2.968,
+       "the"
+      ],
+      [
+       3.194,
+       "currents"
+      ],
+      [
+       3.671,
+       "in"
+      ],
+      [
+       3.847,
+       "its"
+      ],
+      [
+       4.073,
+       "three"
+      ],
+      [
+       4.399,
+       "phases"
+      ],
+      [
+       4.776,
+       "change"
+      ],
+      [
+       5.153,
+       "over"
+      ],
+      [
+       5.429,
+       "time"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_campo_en/e01_2.wav",
+     "ini": 6.418,
+     "fin": 12.397,
+     "dur": 5.979,
+     "ppm": 120,
+     "cortes": [
+      {
+       "ini": 6.418,
+       "texto": "Each phase produces a magnetic contribution",
+       "fin": 9.797
+      },
+      {
+       "ini": 9.797,
+       "texto": "that pulses along a fixed axis.",
+       "fin": 12.397
+      }
+     ],
+     "palabras": [
+      [
+       6.418,
+       "Each"
+      ],
+      [
+       6.823,
+       "phase"
+      ],
+      [
+       7.301,
+       "produces"
+      ],
+      [
+       8.001,
+       "a"
+      ],
+      [
+       8.185,
+       "magnetic"
+      ],
+      [
+       8.884,
+       "contribution"
+      ],
+      [
+       9.877,
+       "that"
+      ],
+      [
+       10.282,
+       "pulses"
+      ],
+      [
+       10.834,
+       "along"
+      ],
+      [
+       11.312,
+       "a"
+      ],
+      [
+       11.496,
+       "fixed"
+      ],
+      [
+       11.975,
+       "axis"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_campo_en/e01_3.wav",
+     "ini": 13.197,
+     "fin": 17.818,
+     "dur": 4.621,
+     "ppm": 143,
+     "cortes": [
+      {
+       "ini": 13.197,
+       "texto": "Added together, they form a field that rotates",
+       "fin": 16.227
+      },
+      {
+       "ini": 16.227,
+       "texto": "with constant amplitude.",
+       "fin": 17.818
+      }
+     ],
+     "palabras": [
+      [
+       13.197,
+       "Added"
+      ],
+      [
+       13.582,
+       "together"
+      ],
+      [
+       14.378,
+       "they"
+      ],
+      [
+       14.69,
+       "form"
+      ],
+      [
+       15.002,
+       "a"
+      ],
+      [
+       15.144,
+       "field"
+      ],
+      [
+       15.513,
+       "that"
+      ],
+      [
+       15.825,
+       "rotates"
+      ],
+      [
+       16.307,
+       "with"
+      ],
+      [
+       16.619,
+       "constant"
+      ],
+      [
+       17.158,
+       "amplitude"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_campo_en/e01_4.wav",
+     "ini": 19.318,
+     "fin": 22.337,
+     "dur": 3.019,
+     "ppm": 159,
+     "cortes": [
+      {
+       "ini": 19.318,
+       "texto": "Under load, this field interacts with the rotor.",
+       "fin": 22.337
+      }
+     ],
+     "palabras": [
+      [
+       19.318,
+       "Under"
+      ],
+      [
+       19.673,
+       "load"
+      ],
+      [
+       20.205,
+       "this"
+      ],
+      [
+       20.502,
+       "field"
+      ],
+      [
+       20.854,
+       "interacts"
+      ],
+      [
+       21.422,
+       "with"
+      ],
+      [
+       21.72,
+       "the"
+      ],
+      [
+       21.964,
+       "rotor"
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "resumen": {
+  "palabras": 45,
+  "segundos_de_voz": 18.4,
+  "ppm_solo_voz": 146,
+  "ppm_con_pausas_entre_frases": 131
+ }
+}

@@ -1,0 +1,61 @@
+Del agua a la electricidad — narración
+
+Voz: Microsoft Sabina Desktop (es-MX), síntesis local de Windows, una frase por archivo.
+480 palabras; 224,6 s de voz; 128 palabras por minuto sin contar pausas.
+Los tiempos son los medidos en el audio final (minutos:segundos,décimas).
+
+Escena 1 — 00:00 a 00:23 — La pregunta y el sistema completo
+  [00:01,0 – 00:06,1]  ¿Cómo se transforma el agua de un reservorio en electricidad para una ciudad?
+  [00:06,7 – 00:13,2]  El recorrido combina energía hidráulica, movimiento mecánico y fenómenos eléctricos.
+  [00:13,8 – 00:21,8]  Vamos a seguirlo paso a paso y después veremos cómo la central responde cuando cambian las necesidades del sistema.
+
+Escena 2 — 00:23 a 00:51 — Salto, caudal y conducción
+  [00:24,2 – 00:28,9]  El desnivel y el caudal determinan la energía que podemos aprovechar.
+  [00:29,7 – 00:34,8]  Parte se pierde durante la conducción; por eso usamos el salto neto.
+  [00:35,8 – 00:49,8]  En este ejemplo, 400 metros de salto y 8,5 metros cúbicos por segundo permiten obtener alrededor de 30 megavatios, considerando las pérdidas de turbina y generador.
+
+Escena 3 — 00:51 a 01:21 — La turbina Pelton
+  [00:53,0 – 00:58,6]  En la boquilla, la presión del agua se transforma en un chorro de alta velocidad.
+  [00:59,4 – 01:05,4]  El chorro golpea tangencialmente las cucharas de la turbina Pelton y cambia de dirección.
+  [01:06,0 – 01:09,0]  Esa interacción produce el giro del rodete.
+  [01:12,2 – 01:19,7]  El eje transmite la potencia mecánica al generador, mientras el agua sale hacia el canal de restitución.
+
+Escena 4 — 01:21 a 01:54 — Dentro del generador
+  [01:23,4 – 01:25,4]  El rotor gira con la turbina.
+  [01:26,1 – 01:35,2]  Sus electroimanes producen un campo magnético que cambia de posición respecto de los devanados del estator, que permanece fijo.
+  [01:35,9 – 01:38,0]  Ese cambio induce tensión.
+  [01:38,8 – 01:43,1]  Los devanados están organizados para producir tres fases.
+  [01:44,0 – 01:52,8]  En esta máquina ilustrativa, 20 polos y 360 revoluciones por minuto corresponden a 60 hercios.
+
+Escena 5 — 01:54 a 02:24 — Sincronización y elevación de tensión
+  [01:55,2 – 02:03,5]  Antes de conectar el generador, su tensión, frecuencia y posición de fase deben ser compatibles con la red.
+  [02:04,3 – 02:08,6]  Después del cierre del interruptor, puede entregar potencia.
+  [02:09,6 – 02:15,6]  El transformador eleva la tensión de 13,8 a 230 kilovoltios.
+  [02:16,2 – 02:22,6]  Así se transmite la misma potencia con menor corriente y menores pérdidas en los conductores.
+
+Escena 6 — 02:24 a 02:54 — Del sistema de transmisión al usuario
+  [02:25,4 – 02:30,9]  La energía recorre la transmisión y llega a subestaciones que reducen la tensión.
+  [02:32,1 – 02:36,7]  Después pasa por subtransmisión y alimentadores de media tensión.
+  [02:37,9 – 02:43,8]  Un transformador de distribución adapta el suministro para los usuarios de baja tensión.
+  [02:44,9 – 02:52,3]  Cada nivel necesita equipos de maniobra, medición y protección para operar con seguridad y continuidad.
+
+Escena 7 — 02:54 a 03:37 — Cuando aumenta la demanda
+  [02:57,0 – 03:05,5]  Para observar la respuesta, aislamos un sistema equivalente y aumentamos su demanda de 20 a 23 megavatios.
+  [03:06,5 – 03:11,5]  Al principio, la potencia mecánica no cambia instantáneamente:
+  [03:11,9 – 03:17,2]  la energía de rotación ayuda a cubrir el déficit y la frecuencia disminuye.
+  [03:18,6 – 03:23,0]  El gobernador aumenta la admisión de agua y aporta más potencia.
+  [03:24,4 – 03:27,4]  La regulación primaria contiene la caída;
+  [03:28,3 – 03:33,7]  una acción secundaria ajusta la consigna para recuperar los 60 hercios.
+
+Escena 8 — 03:37 a 04:14 — Cuando aumenta la demanda reactiva
+  [03:39,6 – 03:45,0]  Un aumento de demanda reactiva puede reducir la tensión en el punto de conexión.
+  [03:45,8 – 03:50,8]  Aquí interviene otro control: el regulador automático de tensión.
+  [03:51,5 – 03:58,7]  Ajusta la excitación del rotor para modificar la respuesta eléctrica del generador y apoyar la tensión.
+  [03:59,4 – 04:03,2]  Su acción está limitada por la capacidad de la máquina.
+  [04:04,0 – 04:11,1]  El gobernador y la excitación cumplen funciones diferentes, aunque trabajan dentro del mismo sistema.
+
+Escena 9 — 04:14 a 04:45 — Recapitulación
+  [04:15,5 – 04:22,6]  El agua aporta energía, la turbina produce movimiento y el generador lo convierte en electricidad.
+  [04:23,1 – 04:27,1]  Los transformadores permiten transportarla y distribuirla.
+  [04:27,6 – 04:32,3]  Los controles y las protecciones permiten operar dentro de límites.
+  [04:32,9 – 04:40,8]  Comprender la central exige seguir toda esa cadena, desde el recurso hidráulico hasta la necesidad del usuario.

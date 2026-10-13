@@ -1,0 +1,16 @@
+{
+ "titulo": "Stator rotating field (insert for the short cut)",
+ "fps": 30,
+ "voz": {"motor": "piper", "nombre": "en_US-ryan-high", "velocidad": "1.32", "idioma": "en-US",
+         "licencia": "Voz de Piper entrenada con RyanSpeech (CC BY-NC-SA 4.0): uso no comercial"},
+ "nota": "Tramo independiente de unos 25 s: el estator inmóvil produce un campo giratorio. Se renderiza con ?clip=campo y se inserta en el corte corto.",
+ "escenas": [
+  {"n": 1, "ini": 0, "fin": 24.0, "titulo": "The stator stays still; its field rotates",
+   "voz": [
+    {"en": 0.9, "sub": "The stator stays still,|but the currents in its three phases|change over time.", "tts": "The stator stays still,|but the currents in its three phases|change over time."},
+    {"pausa": 0.7, "sub": "Each phase produces a magnetic contribution|that pulses along a fixed axis.", "tts": "Each phase produces a magnetic contribution|that pulses along a fixed axis."},
+    {"pausa": 0.8, "sub": "Added together, they form a field that rotates|with constant amplitude.", "tts": "Added together, they form a field that rotates|with constant amplitude."},
+    {"pausa": 1.5, "sub": "Under load, this field interacts with the rotor.", "tts": "Under load, this field interacts with the rotor."}
+   ]}
+ ]
+}

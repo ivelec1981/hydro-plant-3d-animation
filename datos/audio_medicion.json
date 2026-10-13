@@ -1,0 +1,27 @@
+{
+ "con_voz": {
+  "archivo": "audio/mezcla_final.wav",
+  "duracion_s": 285.0,
+  "lufs_integrado": -16.03,
+  "pico_verdadero_dbtp": -1.19,
+  "rango_lra": 2.8,
+  "lufs_en_mono": -19.34
+ },
+ "sin_voz": {
+  "archivo": "audio/sin_voz_final.wav",
+  "duracion_s": 285.0,
+  "lufs_integrado": -20.0,
+  "pico_verdadero_dbtp": -5.34,
+  "rango_lra": 3.7,
+  "lufs_en_mono": -25.18
+ },
+ "reduccion_musica_bajo_voz_db": -9.4,
+ "voz_menos_fondo_durante_la_locucion_db": 11.3,
+ "voz": {
+  "motor": "sapi",
+  "nombre": "Microsoft Sabina Desktop",
+  "velocidad": "-2",
+  "idioma": "es-MX"
+ },
+ "palabras_por_minuto_solo_voz": 128
+}

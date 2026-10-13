@@ -1,0 +1,2797 @@
+{
+ "voz": {
+  "motor": "piper",
+  "nombre": "en_US-ryan-high",
+  "velocidad": "1.32",
+  "idioma": "en-US",
+  "licencia": "Voz de Piper entrenada con RyanSpeech (CC BY-NC-SA 4.0): uso no comercial"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "ini": 0,
+   "fin": 23,
+   "holgura": 3.08,
+   "frases": [
+    {
+     "archivo": "audio/voz_en/e01_1.wav",
+     "ini": 1.0,
+     "fin": 4.506,
+     "dur": 3.506,
+     "ppm": 188,
+     "cortes": [
+      {
+       "ini": 1.0,
+       "texto": "How does water in a reservoir",
+       "fin": 2.675
+      },
+      {
+       "ini": 2.675,
+       "texto": "become electricity for a city?",
+       "fin": 4.506
+      }
+     ],
+     "palabras": [
+      [
+       1.005,
+       "How"
+      ],
+      [
+       1.244,
+       "does"
+      ],
+      [
+       1.535,
+       "water"
+      ],
+      [
+       1.88,
+       "in"
+      ],
+      [
+       2.065,
+       "a"
+      ],
+      [
+       2.198,
+       "reservoir"
+      ],
+      [
+       2.755,
+       "become"
+      ],
+      [
+       3.152,
+       "electricity"
+      ],
+      [
+       3.815,
+       "for"
+      ],
+      [
+       4.053,
+       "a"
+      ],
+      [
+       4.186,
+       "city"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e01_2.wav",
+     "ini": 6.702,
+     "fin": 12.263,
+     "dur": 5.561,
+     "ppm": 108,
+     "cortes": [
+      {
+       "ini": 6.702,
+       "texto": "The journey combines hydraulic energy,",
+       "fin": 9.302
+      },
+      {
+       "ini": 9.302,
+       "texto": "mechanical motion and electrical phenomena.",
+       "fin": 12.263
+      }
+     ],
+     "palabras": [
+      [
+       6.704,
+       "The"
+      ],
+      [
+       6.981,
+       "journey"
+      ],
+      [
+       7.505,
+       "combines"
+      ],
+      [
+       8.091,
+       "hydraulic"
+      ],
+      [
+       8.737,
+       "energy"
+      ],
+      [
+       9.382,
+       "mechanical"
+      ],
+      [
+       10.108,
+       "motion"
+      ],
+      [
+       10.581,
+       "and"
+      ],
+      [
+       10.865,
+       "electrical"
+      ],
+      [
+       11.591,
+       "phenomena"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e01_3.wav",
+     "ini": 13.887,
+     "fin": 19.924,
+     "dur": 6.037,
+     "ppm": 209,
+     "cortes": [
+      {
+       "ini": 13.887,
+       "texto": "We will follow it step by step",
+       "fin": 15.632
+      },
+      {
+       "ini": 15.632,
+       "texto": "and then see how the plant responds",
+       "fin": 17.721
+      },
+      {
+       "ini": 17.721,
+       "texto": "when the needs of the system change.",
+       "fin": 19.924
+      }
+     ],
+     "palabras": [
+      [
+       13.887,
+       "We"
+      ],
+      [
+       14.072,
+       "will"
+      ],
+      [
+       14.363,
+       "follow"
+      ],
+      [
+       14.76,
+       "it"
+      ],
+      [
+       14.945,
+       "step"
+      ],
+      [
+       15.236,
+       "by"
+      ],
+      [
+       15.421,
+       "step"
+      ],
+      [
+       15.712,
+       "and"
+      ],
+      [
+       15.95,
+       "then"
+      ],
+      [
+       16.241,
+       "see"
+      ],
+      [
+       16.479,
+       "how"
+      ],
+      [
+       16.717,
+       "the"
+      ],
+      [
+       16.955,
+       "plant"
+      ],
+      [
+       17.298,
+       "responds"
+      ],
+      [
+       17.801,
+       "when"
+      ],
+      [
+       18.092,
+       "the"
+      ],
+      [
+       18.33,
+       "needs"
+      ],
+      [
+       18.674,
+       "of"
+      ],
+      [
+       18.859,
+       "the"
+      ],
+      [
+       19.097,
+       "system"
+      ],
+      [
+       19.493,
+       "change"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "ini": 23,
+   "fin": 51,
+   "holgura": 4.18,
+   "frases": [
+    {
+     "archivo": "audio/voz_en/e02_1.wav",
+     "ini": 24.2,
+     "fin": 27.149,
+     "dur": 2.949,
+     "ppm": 183,
+     "cortes": [
+      {
+       "ini": 24.2,
+       "texto": "Head and flow determine",
+       "fin": 25.639
+      },
+      {
+       "ini": 25.639,
+       "texto": "the energy we can use.",
+       "fin": 27.149
+      }
+     ],
+     "palabras": [
+      [
+       24.214,
+       "Head"
+      ],
+      [
+       24.533,
+       "and"
+      ],
+      [
+       24.793,
+       "flow"
+      ],
+      [
+       25.111,
+       "determine"
+      ],
+      [
+       25.719,
+       "the"
+      ],
+      [
+       25.979,
+       "energy"
+      ],
+      [
+       26.413,
+       "we"
+      ],
+      [
+       26.616,
+       "can"
+      ],
+      [
+       26.876,
+       "use"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e02_2.wav",
+     "ini": 29.707,
+     "fin": 34.223,
+     "dur": 4.516,
+     "ppm": 213,
+     "cortes": [
+      {
+       "ini": 29.707,
+       "texto": "Part of it is lost along the conduit;",
+       "fin": 32.309
+      },
+      {
+       "ini": 32.309,
+       "texto": "that is why we use the net head.",
+       "fin": 34.223
+      }
+     ],
+     "palabras": [
+      [
+       29.728,
+       "Part"
+      ],
+      [
+       30.048,
+       "of"
+      ],
+      [
+       30.251,
+       "it"
+      ],
+      [
+       30.455,
+       "is"
+      ],
+      [
+       30.658,
+       "lost"
+      ],
+      [
+       30.977,
+       "along"
+      ],
+      [
+       31.355,
+       "the"
+      ],
+      [
+       31.617,
+       "conduit"
+      ],
+      [
+       32.389,
+       "that"
+      ],
+      [
+       32.663,
+       "is"
+      ],
+      [
+       32.837,
+       "why"
+      ],
+      [
+       33.062,
+       "we"
+      ],
+      [
+       33.236,
+       "use"
+      ],
+      [
+       33.46,
+       "the"
+      ],
+      [
+       33.685,
+       "net"
+      ],
+      [
+       33.909,
+       "head"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e02_3.wav",
+     "ini": 35.875,
+     "fin": 46.823,
+     "dur": 10.948,
+     "ppm": 142,
+     "cortes": [
+      {
+       "ini": 35.875,
+       "texto": "In this example, a head of 400 metres",
+       "fin": 39.135
+      },
+      {
+       "ini": 39.135,
+       "texto": "and 8.5 cubic metres per second",
+       "fin": 42.069
+      },
+      {
+       "ini": 42.069,
+       "texto": "yield about 30 megawatts,",
+       "fin": 44.142
+      },
+      {
+       "ini": 44.142,
+       "texto": "after turbine and generator losses.",
+       "fin": 46.823
+      }
+     ],
+     "palabras": [
+      [
+       35.875,
+       "In"
+      ],
+      [
+       36.088,
+       "this"
+      ],
+      [
+       36.422,
+       "example"
+      ],
+      [
+       37.24,
+       "a"
+      ],
+      [
+       37.39,
+       "head"
+      ],
+      [
+       37.719,
+       "of"
+      ],
+      [
+       37.928,
+       "four"
+      ],
+      [
+       38.258,
+       "hundred"
+      ],
+      [
+       38.766,
+       "metres"
+      ],
+      [
+       39.215,
+       "and"
+      ],
+      [
+       39.485,
+       "eight"
+      ],
+      [
+       39.874,
+       "point"
+      ],
+      [
+       40.263,
+       "five"
+      ],
+      [
+       40.592,
+       "cubic"
+      ],
+      [
+       40.981,
+       "metres"
+      ],
+      [
+       41.43,
+       "per"
+      ],
+      [
+       41.7,
+       "second"
+      ],
+      [
+       42.149,
+       "yield"
+      ],
+      [
+       42.538,
+       "about"
+      ],
+      [
+       42.927,
+       "thirty"
+      ],
+      [
+       43.376,
+       "megawatts"
+      ],
+      [
+       44.222,
+       "after"
+      ],
+      [
+       44.669,
+       "turbine"
+      ],
+      [
+       45.254,
+       "and"
+      ],
+      [
+       45.563,
+       "generator"
+      ],
+      [
+       46.285,
+       "losses"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "ini": 51,
+   "fin": 81,
+   "holgura": 3.31,
+   "frases": [
+    {
+     "archivo": "audio/voz_en/e03_1.wav",
+     "ini": 53.0,
+     "fin": 56.924,
+     "dur": 3.924,
+     "ppm": 153,
+     "cortes": [
+      {
+       "ini": 53.0,
+       "texto": "At the nozzle, the water pressure",
+       "fin": 55.17
+      },
+      {
+       "ini": 55.17,
+       "texto": "becomes a high-speed jet.",
+       "fin": 56.924
+      }
+     ],
+     "palabras": [
+      [
+       53.0,
+       "At"
+      ],
+      [
+       53.18,
+       "the"
+      ],
+      [
+       53.412,
+       "nozzle"
+      ],
+      [
+       53.99,
+       "the"
+      ],
+      [
+       54.267,
+       "water"
+      ],
+      [
+       54.666,
+       "pressure"
+      ],
+      [
+       55.25,
+       "becomes"
+      ],
+      [
+       55.772,
+       "a"
+      ],
+      [
+       55.925,
+       "high-speed"
+      ],
+      [
+       56.632,
+       "jet"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e03_2.wav",
+     "ini": 59.434,
+     "fin": 64.867,
+     "dur": 5.433,
+     "ppm": 144,
+     "cortes": [
+      {
+       "ini": 59.434,
+       "texto": "The jet strikes the buckets",
+       "fin": 61.167
+      },
+      {
+       "ini": 61.167,
+       "texto": "of the Pelton turbine tangentially",
+       "fin": 63.386
+      },
+      {
+       "ini": 63.386,
+       "texto": "and changes direction.",
+       "fin": 64.867
+      }
+     ],
+     "palabras": [
+      [
+       59.443,
+       "The"
+      ],
+      [
+       59.709,
+       "jet"
+      ],
+      [
+       59.976,
+       "strikes"
+      ],
+      [
+       60.478,
+       "the"
+      ],
+      [
+       60.745,
+       "buckets"
+      ],
+      [
+       61.247,
+       "of"
+      ],
+      [
+       61.454,
+       "the"
+      ],
+      [
+       61.721,
+       "Pelton"
+      ],
+      [
+       62.164,
+       "turbine"
+      ],
+      [
+       62.667,
+       "tangentially"
+      ],
+      [
+       63.466,
+       "and"
+      ],
+      [
+       63.732,
+       "changes"
+      ],
+      [
+       64.235,
+       "direction"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e03_3.wav",
+     "ini": 66.026,
+     "fin": 68.255,
+     "dur": 2.229,
+     "ppm": 161,
+     "cortes": [
+      {
+       "ini": 66.026,
+       "texto": "That interaction makes the runner turn.",
+       "fin": 68.255
+      }
+     ],
+     "palabras": [
+      [
+       66.03,
+       "That"
+      ],
+      [
+       66.32,
+       "interaction"
+      ],
+      [
+       66.979,
+       "makes"
+      ],
+      [
+       67.322,
+       "the"
+      ],
+      [
+       67.559,
+       "runner"
+      ],
+      [
+       67.955,
+       "turn"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e03_4.wav",
+     "ini": 72.272,
+     "fin": 77.694,
+     "dur": 5.422,
+     "ppm": 166,
+     "cortes": [
+      {
+       "ini": 72.272,
+       "texto": "The shaft carries mechanical power to the generator,",
+       "fin": 75.478
+      },
+      {
+       "ini": 75.478,
+       "texto": "while the water leaves through the tailrace.",
+       "fin": 77.694
+      }
+     ],
+     "palabras": [
+      [
+       72.274,
+       "The"
+      ],
+      [
+       72.516,
+       "shaft"
+      ],
+      [
+       72.865,
+       "carries"
+      ],
+      [
+       73.322,
+       "mechanical"
+      ],
+      [
+       73.94,
+       "power"
+      ],
+      [
+       74.29,
+       "to"
+      ],
+      [
+       74.478,
+       "the"
+      ],
+      [
+       74.72,
+       "generator"
+      ],
+      [
+       75.558,
+       "while"
+      ],
+      [
+       75.848,
+       "the"
+      ],
+      [
+       76.049,
+       "water"
+      ],
+      [
+       76.339,
+       "leaves"
+      ],
+      [
+       76.674,
+       "through"
+      ],
+      [
+       77.054,
+       "the"
+      ],
+      [
+       77.255,
+       "tailrace"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "ini": 81,
+   "fin": 114,
+   "holgura": 2.37,
+   "frases": [
+    {
+     "archivo": "audio/voz_en/e04_1.wav",
+     "ini": 83.4,
+     "fin": 85.327,
+     "dur": 1.927,
+     "ppm": 187,
+     "cortes": [
+      {
+       "ini": 83.4,
+       "texto": "The rotor turns with the turbine.",
+       "fin": 85.327
+      }
+     ],
+     "palabras": [
+      [
+       83.417,
+       "The"
+      ],
+      [
+       83.651,
+       "rotor"
+      ],
+      [
+       83.991,
+       "turns"
+      ],
+      [
+       84.33,
+       "with"
+      ],
+      [
+       84.617,
+       "the"
+      ],
+      [
+       84.852,
+       "turbine"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e04_2.wav",
+     "ini": 86.149,
+     "fin": 93.405,
+     "dur": 7.256,
+     "ppm": 141,
+     "cortes": [
+      {
+       "ini": 86.149,
+       "texto": "Its electromagnets produce a magnetic field",
+       "fin": 88.85
+      },
+      {
+       "ini": 88.85,
+       "texto": "that moves past the windings",
+       "fin": 90.713
+      },
+      {
+       "ini": 90.713,
+       "texto": "of the stator, which stays fixed.",
+       "fin": 93.405
+      }
+     ],
+     "palabras": [
+      [
+       86.15,
+       "Its"
+      ],
+      [
+       86.416,
+       "electromagnets"
+      ],
+      [
+       87.333,
+       "produce"
+      ],
+      [
+       87.836,
+       "a"
+      ],
+      [
+       87.984,
+       "magnetic"
+      ],
+      [
+       88.546,
+       "field"
+      ],
+      [
+       88.93,
+       "that"
+      ],
+      [
+       89.255,
+       "moves"
+      ],
+      [
+       89.64,
+       "past"
+      ],
+      [
+       89.965,
+       "the"
+      ],
+      [
+       90.231,
+       "windings"
+      ],
+      [
+       90.793,
+       "of"
+      ],
+      [
+       91.0,
+       "the"
+      ],
+      [
+       91.267,
+       "stator"
+      ],
+      [
+       91.967,
+       "which"
+      ],
+      [
+       92.416,
+       "stays"
+      ],
+      [
+       92.864,
+       "fixed"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e04_3.wav",
+     "ini": 95.969,
+     "fin": 97.954,
+     "dur": 1.985,
+     "ppm": 121,
+     "cortes": [
+      {
+       "ini": 95.969,
+       "texto": "That change induces voltage.",
+       "fin": 97.954
+      }
+     ],
+     "palabras": [
+      [
+       95.971,
+       "That"
+      ],
+      [
+       96.326,
+       "change"
+      ],
+      [
+       96.81,
+       "induces"
+      ],
+      [
+       97.359,
+       "voltage"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e04_4.wav",
+     "ini": 98.822,
+     "fin": 101.678,
+     "dur": 2.856,
+     "ppm": 168,
+     "cortes": [
+      {
+       "ini": 98.822,
+       "texto": "The windings are arranged",
+       "fin": 100.22
+      },
+      {
+       "ini": 100.22,
+       "texto": "to produce three phases.",
+       "fin": 101.678
+      }
+     ],
+     "palabras": [
+      [
+       98.83,
+       "The"
+      ],
+      [
+       99.066,
+       "windings"
+      ],
+      [
+       99.565,
+       "are"
+      ],
+      [
+       99.802,
+       "arranged"
+      ],
+      [
+       100.3,
+       "to"
+      ],
+      [
+       100.484,
+       "produce"
+      ],
+      [
+       100.931,
+       "three"
+      ],
+      [
+       101.272,
+       "phases"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e04_5.wav",
+     "ini": 104.014,
+     "fin": 111.63,
+     "dur": 7.616,
+     "ppm": 134,
+     "cortes": [
+      {
+       "ini": 104.014,
+       "texto": "In this illustrative machine, 20 poles",
+       "fin": 106.621
+      },
+      {
+       "ini": 106.621,
+       "texto": "and 360 revolutions per minute",
+       "fin": 109.783
+      },
+      {
+       "ini": 109.783,
+       "texto": "correspond to 60 hertz.",
+       "fin": 111.63
+      }
+     ],
+     "palabras": [
+      [
+       104.016,
+       "In"
+      ],
+      [
+       104.204,
+       "this"
+      ],
+      [
+       104.5,
+       "illustrative"
+      ],
+      [
+       105.225,
+       "machine"
+      ],
+      [
+       105.824,
+       "twenty"
+      ],
+      [
+       106.294,
+       "poles"
+      ],
+      [
+       106.701,
+       "and"
+      ],
+      [
+       106.982,
+       "three"
+      ],
+      [
+       107.389,
+       "hundred"
+      ],
+      [
+       107.922,
+       "sixty"
+      ],
+      [
+       108.329,
+       "revolutions"
+      ],
+      [
+       109.111,
+       "per"
+      ],
+      [
+       109.393,
+       "minute"
+      ],
+      [
+       109.863,
+       "correspond"
+      ],
+      [
+       110.583,
+       "to"
+      ],
+      [
+       110.802,
+       "sixty"
+      ],
+      [
+       111.209,
+       "hertz"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "ini": 114,
+   "fin": 144,
+   "holgura": 2.28,
+   "frases": [
+    {
+     "archivo": "audio/voz_en/e05_1.wav",
+     "ini": 115.2,
+     "fin": 121.655,
+     "dur": 6.455,
+     "ppm": 149,
+     "cortes": [
+      {
+       "ini": 115.2,
+       "texto": "Before connecting the generator,",
+       "fin": 118.014
+      },
+      {
+       "ini": 118.014,
+       "texto": "its voltage, frequency and phase angle",
+       "fin": 119.969
+      },
+      {
+       "ini": 119.969,
+       "texto": "must match those of the grid.",
+       "fin": 121.655
+      }
+     ],
+     "palabras": [
+      [
+       115.2,
+       "Before"
+      ],
+      [
+       115.765,
+       "connecting"
+      ],
+      [
+       116.632,
+       "the"
+      ],
+      [
+       116.972,
+       "generator"
+      ],
+      [
+       118.094,
+       "its"
+      ],
+      [
+       118.309,
+       "voltage"
+      ],
+      [
+       118.714,
+       "frequency"
+      ],
+      [
+       119.215,
+       "and"
+      ],
+      [
+       119.43,
+       "phase"
+      ],
+      [
+       119.739,
+       "angle"
+      ],
+      [
+       120.049,
+       "must"
+      ],
+      [
+       120.312,
+       "match"
+      ],
+      [
+       120.622,
+       "those"
+      ],
+      [
+       120.932,
+       "of"
+      ],
+      [
+       121.099,
+       "the"
+      ],
+      [
+       121.313,
+       "grid"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e05_2.wav",
+     "ini": 124.31,
+     "fin": 127.12,
+     "dur": 2.81,
+     "ppm": 171,
+     "cortes": [
+      {
+       "ini": 124.31,
+       "texto": "Once the breaker closes,",
+       "fin": 125.902
+      },
+      {
+       "ini": 125.902,
+       "texto": "it can deliver power.",
+       "fin": 127.12
+      }
+     ],
+     "palabras": [
+      [
+       124.314,
+       "Once"
+      ],
+      [
+       124.64,
+       "the"
+      ],
+      [
+       124.908,
+       "breaker"
+      ],
+      [
+       125.413,
+       "closes"
+      ],
+      [
+       125.982,
+       "it"
+      ],
+      [
+       126.153,
+       "can"
+      ],
+      [
+       126.372,
+       "deliver"
+      ],
+      [
+       126.787,
+       "power"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e05_3.wav",
+     "ini": 129.637,
+     "fin": 135.605,
+     "dur": 5.968,
+     "ppm": 151,
+     "cortes": [
+      {
+       "ini": 129.637,
+       "texto": "The transformer steps the voltage up",
+       "fin": 131.884
+      },
+      {
+       "ini": 131.884,
+       "texto": "from 13.8 to 230 kilovolts.",
+       "fin": 135.605
+      }
+     ],
+     "palabras": [
+      [
+       129.637,
+       "The"
+      ],
+      [
+       129.899,
+       "transformer"
+      ],
+      [
+       130.626,
+       "steps"
+      ],
+      [
+       131.004,
+       "the"
+      ],
+      [
+       131.266,
+       "voltage"
+      ],
+      [
+       131.761,
+       "up"
+      ],
+      [
+       131.964,
+       "from"
+      ],
+      [
+       132.284,
+       "thirteen"
+      ],
+      [
+       132.837,
+       "point"
+      ],
+      [
+       133.215,
+       "eight"
+      ],
+      [
+       133.593,
+       "to"
+      ],
+      [
+       133.797,
+       "two"
+      ],
+      [
+       134.059,
+       "hundred"
+      ],
+      [
+       134.553,
+       "thirty"
+      ],
+      [
+       134.989,
+       "kilovolts"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e05_4.wav",
+     "ini": 136.233,
+     "fin": 141.725,
+     "dur": 5.492,
+     "ppm": 164,
+     "cortes": [
+      {
+       "ini": 136.233,
+       "texto": "The same power is then transmitted",
+       "fin": 138.34
+      },
+      {
+       "ini": 138.34,
+       "texto": "with less current and lower losses",
+       "fin": 140.518
+      },
+      {
+       "ini": 140.518,
+       "texto": "in the conductors.",
+       "fin": 141.725
+      }
+     ],
+     "palabras": [
+      [
+       136.242,
+       "The"
+      ],
+      [
+       136.5,
+       "same"
+      ],
+      [
+       136.815,
+       "power"
+      ],
+      [
+       137.187,
+       "is"
+      ],
+      [
+       137.388,
+       "then"
+      ],
+      [
+       137.703,
+       "transmitted"
+      ],
+      [
+       138.42,
+       "with"
+      ],
+      [
+       138.735,
+       "less"
+      ],
+      [
+       139.05,
+       "current"
+      ],
+      [
+       139.537,
+       "and"
+      ],
+      [
+       139.795,
+       "lower"
+      ],
+      [
+       140.168,
+       "losses"
+      ],
+      [
+       140.598,
+       "in"
+      ],
+      [
+       140.798,
+       "the"
+      ],
+      [
+       141.056,
+       "conductors"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "ini": 144,
+   "fin": 174,
+   "holgura": 2.23,
+   "frases": [
+    {
+     "archivo": "audio/voz_en/e06_1.wav",
+     "ini": 145.4,
+     "fin": 151.553,
+     "dur": 6.153,
+     "ppm": 137,
+     "cortes": [
+      {
+       "ini": 145.4,
+       "texto": "Energy travels along the transmission line",
+       "fin": 148.116
+      },
+      {
+       "ini": 148.116,
+       "texto": "and reaches substations that step the voltage down.",
+       "fin": 151.553
+      }
+     ],
+     "palabras": [
+      [
+       145.4,
+       "Energy"
+      ],
+      [
+       145.856,
+       "travels"
+      ],
+      [
+       146.372,
+       "along"
+      ],
+      [
+       146.768,
+       "the"
+      ],
+      [
+       147.041,
+       "transmission"
+      ],
+      [
+       147.862,
+       "line"
+      ],
+      [
+       148.196,
+       "and"
+      ],
+      [
+       148.469,
+       "reaches"
+      ],
+      [
+       148.986,
+       "substations"
+      ],
+      [
+       149.746,
+       "that"
+      ],
+      [
+       150.08,
+       "step"
+      ],
+      [
+       150.414,
+       "the"
+      ],
+      [
+       150.688,
+       "voltage"
+      ],
+      [
+       151.204,
+       "down"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e06_2.wav",
+     "ini": 152.155,
+     "fin": 156.602,
+     "dur": 4.447,
+     "ppm": 108,
+     "cortes": [
+      {
+       "ini": 152.155,
+       "texto": "It then passes through subtransmission",
+       "fin": 154.703
+      },
+      {
+       "ini": 154.703,
+       "texto": "and medium-voltage feeders.",
+       "fin": 156.602
+      }
+     ],
+     "palabras": [
+      [
+       152.158,
+       "It"
+      ],
+      [
+       152.38,
+       "then"
+      ],
+      [
+       152.727,
+       "passes"
+      ],
+      [
+       153.202,
+       "through"
+      ],
+      [
+       153.74,
+       "subtransmission"
+      ],
+      [
+       154.783,
+       "and"
+      ],
+      [
+       155.068,
+       "medium-voltage"
+      ],
+      [
+       156.049,
+       "feeders"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e06_3.wav",
+     "ini": 157.957,
+     "fin": 162.798,
+     "dur": 4.841,
+     "ppm": 112,
+     "cortes": [
+      {
+       "ini": 157.957,
+       "texto": "A distribution transformer adapts the supply",
+       "fin": 161.118
+      },
+      {
+       "ini": 161.118,
+       "texto": "for low-voltage users.",
+       "fin": 162.798
+      }
+     ],
+     "palabras": [
+      [
+       157.957,
+       "A"
+      ],
+      [
+       158.126,
+       "distribution"
+      ],
+      [
+       159.037,
+       "transformer"
+      ],
+      [
+       159.881,
+       "adapts"
+      ],
+      [
+       160.388,
+       "the"
+      ],
+      [
+       160.691,
+       "supply"
+      ],
+      [
+       161.198,
+       "for"
+      ],
+      [
+       161.502,
+       "low-voltage"
+      ],
+      [
+       162.345,
+       "users"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e06_4.wav",
+     "ini": 164.943,
+     "fin": 171.77,
+     "dur": 6.827,
+     "ppm": 123,
+     "cortes": [
+      {
+       "ini": 164.943,
+       "texto": "Every level needs switching,",
+       "fin": 166.889
+      },
+      {
+       "ini": 166.889,
+       "texto": "metering and protection equipment",
+       "fin": 168.989
+      },
+      {
+       "ini": 168.989,
+       "texto": "to operate safely and without interruption.",
+       "fin": 171.77
+      }
+     ],
+     "palabras": [
+      [
+       164.947,
+       "Every"
+      ],
+      [
+       165.316,
+       "level"
+      ],
+      [
+       165.685,
+       "needs"
+      ],
+      [
+       166.054,
+       "switching"
+      ],
+      [
+       166.969,
+       "metering"
+      ],
+      [
+       167.523,
+       "and"
+      ],
+      [
+       167.786,
+       "protection"
+      ],
+      [
+       168.457,
+       "equipment"
+      ],
+      [
+       169.069,
+       "to"
+      ],
+      [
+       169.273,
+       "operate"
+      ],
+      [
+       169.769,
+       "safely"
+      ],
+      [
+       170.207,
+       "and"
+      ],
+      [
+       170.469,
+       "without"
+      ],
+      [
+       170.965,
+       "interruption"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "ini": 174,
+   "fin": 217,
+   "holgura": 2.96,
+   "frases": [
+    {
+     "archivo": "audio/voz_en/e07_1.wav",
+     "ini": 177.0,
+     "fin": 184.744,
+     "dur": 7.744,
+     "ppm": 139,
+     "cortes": [
+      {
+       "ini": 177.0,
+       "texto": "To observe the response,",
+       "fin": 178.869
+      },
+      {
+       "ini": 178.869,
+       "texto": "we isolate an equivalent system",
+       "fin": 180.9
+      },
+      {
+       "ini": 180.9,
+       "texto": "and raise its demand",
+       "fin": 182.253
+      },
+      {
+       "ini": 182.253,
+       "texto": "from 20 to 23 megawatts.",
+       "fin": 184.744
+      }
+     ],
+     "palabras": [
+      [
+       177.007,
+       "To"
+      ],
+      [
+       177.239,
+       "observe"
+      ],
+      [
+       177.802,
+       "the"
+      ],
+      [
+       178.101,
+       "response"
+      ],
+      [
+       178.949,
+       "we"
+      ],
+      [
+       179.155,
+       "isolate"
+      ],
+      [
+       179.655,
+       "an"
+      ],
+      [
+       179.861,
+       "equivalent"
+      ],
+      [
+       180.538,
+       "system"
+      ],
+      [
+       180.98,
+       "and"
+      ],
+      [
+       181.244,
+       "raise"
+      ],
+      [
+       181.627,
+       "its"
+      ],
+      [
+       181.892,
+       "demand"
+      ],
+      [
+       182.333,
+       "from"
+      ],
+      [
+       182.657,
+       "twenty"
+      ],
+      [
+       183.099,
+       "to"
+      ],
+      [
+       183.305,
+       "twenty-three"
+      ],
+      [
+       184.099,
+       "megawatts"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e07_2.wav",
+     "ini": 186.512,
+     "fin": 189.856,
+     "dur": 3.344,
+     "ppm": 144,
+     "cortes": [
+      {
+       "ini": 186.512,
+       "texto": "At first, mechanical power",
+       "fin": 188.1
+      },
+      {
+       "ini": 188.1,
+       "texto": "does not change instantly:",
+       "fin": 189.856
+      }
+     ],
+     "palabras": [
+      [
+       186.512,
+       "At"
+      ],
+      [
+       186.721,
+       "first"
+      ],
+      [
+       187.108,
+       "mechanical"
+      ],
+      [
+       187.792,
+       "power"
+      ],
+      [
+       188.18,
+       "does"
+      ],
+      [
+       188.507,
+       "not"
+      ],
+      [
+       188.775,
+       "change"
+      ],
+      [
+       189.222,
+       "instantly"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e07_3.wav",
+     "ini": 191.927,
+     "fin": 196.165,
+     "dur": 4.238,
+     "ppm": 142,
+     "cortes": [
+      {
+       "ini": 191.927,
+       "texto": "rotating energy helps cover the deficit",
+       "fin": 194.482
+      },
+      {
+       "ini": 194.482,
+       "texto": "and the frequency falls.",
+       "fin": 196.165
+      }
+     ],
+     "palabras": [
+      [
+       191.934,
+       "rotating"
+      ],
+      [
+       192.514,
+       "energy"
+      ],
+      [
+       192.973,
+       "helps"
+      ],
+      [
+       193.37,
+       "cover"
+      ],
+      [
+       193.767,
+       "the"
+      ],
+      [
+       194.042,
+       "deficit"
+      ],
+      [
+       194.562,
+       "and"
+      ],
+      [
+       194.837,
+       "the"
+      ],
+      [
+       195.112,
+       "frequency"
+      ],
+      [
+       195.753,
+       "falls"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e07_4.wav",
+     "ini": 198.624,
+     "fin": 202.153,
+     "dur": 3.529,
+     "ppm": 153,
+     "cortes": [
+      {
+       "ini": 198.624,
+       "texto": "The governor admits more water",
+       "fin": 200.511
+      },
+      {
+       "ini": 200.511,
+       "texto": "and delivers more power.",
+       "fin": 202.153
+      }
+     ],
+     "palabras": [
+      [
+       198.626,
+       "The"
+      ],
+      [
+       198.89,
+       "governor"
+      ],
+      [
+       199.447,
+       "admits"
+      ],
+      [
+       199.887,
+       "more"
+      ],
+      [
+       200.21,
+       "water"
+      ],
+      [
+       200.591,
+       "and"
+      ],
+      [
+       200.855,
+       "delivers"
+      ],
+      [
+       201.412,
+       "more"
+      ],
+      [
+       201.734,
+       "power"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e07_5.wav",
+     "ini": 204.492,
+     "fin": 207.113,
+     "dur": 2.621,
+     "ppm": 114,
+     "cortes": [
+      {
+       "ini": 204.492,
+       "texto": "Primary regulation arrests the drop;",
+       "fin": 207.113
+      }
+     ],
+     "palabras": [
+      [
+       204.501,
+       "Primary"
+      ],
+      [
+       205.049,
+       "regulation"
+      ],
+      [
+       205.791,
+       "arrests"
+      ],
+      [
+       206.34,
+       "the"
+      ],
+      [
+       206.63,
+       "drop"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e07_6.wav",
+     "ini": 208.315,
+     "fin": 214.039,
+     "dur": 5.724,
+     "ppm": 147,
+     "cortes": [
+      {
+       "ini": 208.315,
+       "texto": "a secondary action adjusts the setpoint",
+       "fin": 210.966
+      },
+      {
+       "ini": 210.966,
+       "texto": "to bring the frequency back to 60 hertz.",
+       "fin": 214.039
+      }
+     ],
+     "palabras": [
+      [
+       208.316,
+       "a"
+      ],
+      [
+       208.475,
+       "secondary"
+      ],
+      [
+       209.142,
+       "action"
+      ],
+      [
+       209.618,
+       "adjusts"
+      ],
+      [
+       210.157,
+       "the"
+      ],
+      [
+       210.443,
+       "setpoint"
+      ],
+      [
+       211.046,
+       "to"
+      ],
+      [
+       211.268,
+       "bring"
+      ],
+      [
+       211.681,
+       "the"
+      ],
+      [
+       211.966,
+       "frequency"
+      ],
+      [
+       212.633,
+       "back"
+      ],
+      [
+       212.982,
+       "to"
+      ],
+      [
+       213.204,
+       "sixty"
+      ],
+      [
+       213.617,
+       "hertz"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "ini": 217,
+   "fin": 254.5,
+   "holgura": 4.25,
+   "frases": [
+    {
+     "archivo": "audio/voz_en/e08_1.wav",
+     "ini": 219.6,
+     "fin": 224.105,
+     "dur": 4.505,
+     "ppm": 173,
+     "cortes": [
+      {
+       "ini": 219.6,
+       "texto": "A rise in reactive demand",
+       "fin": 221.166
+      },
+      {
+       "ini": 221.166,
+       "texto": "can lower the voltage at the connection point.",
+       "fin": 224.105
+      }
+     ],
+     "palabras": [
+      [
+       219.628,
+       "A"
+      ],
+      [
+       219.77,
+       "rise"
+      ],
+      [
+       220.082,
+       "in"
+      ],
+      [
+       220.281,
+       "reactive"
+      ],
+      [
+       220.82,
+       "demand"
+      ],
+      [
+       221.246,
+       "can"
+      ],
+      [
+       221.502,
+       "lower"
+      ],
+      [
+       221.871,
+       "the"
+      ],
+      [
+       222.126,
+       "voltage"
+      ],
+      [
+       222.609,
+       "at"
+      ],
+      [
+       222.808,
+       "the"
+      ],
+      [
+       223.063,
+       "connection"
+      ],
+      [
+       223.716,
+       "point"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e08_2.wav",
+     "ini": 225.889,
+     "fin": 230.185,
+     "dur": 4.296,
+     "ppm": 126,
+     "cortes": [
+      {
+       "ini": 225.889,
+       "texto": "Here another control steps in:",
+       "fin": 228.156
+      },
+      {
+       "ini": 228.156,
+       "texto": "the automatic voltage regulator.",
+       "fin": 230.185
+      }
+     ],
+     "palabras": [
+      [
+       225.907,
+       "Here"
+      ],
+      [
+       226.244,
+       "another"
+      ],
+      [
+       226.765,
+       "control"
+      ],
+      [
+       227.286,
+       "steps"
+      ],
+      [
+       227.684,
+       "in"
+      ],
+      [
+       228.236,
+       "the"
+      ],
+      [
+       228.492,
+       "automatic"
+      ],
+      [
+       229.091,
+       "voltage"
+      ],
+      [
+       229.575,
+       "regulator"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e08_3.wav",
+     "ini": 231.545,
+     "fin": 237.745,
+     "dur": 6.2,
+     "ppm": 165,
+     "cortes": [
+      {
+       "ini": 231.545,
+       "texto": "It adjusts the rotor excitation",
+       "fin": 233.302
+      },
+      {
+       "ini": 233.302,
+       "texto": "to change the electrical response of the generator",
+       "fin": 236.226
+      },
+      {
+       "ini": 236.226,
+       "texto": "and support the voltage.",
+       "fin": 237.745
+      }
+     ],
+     "palabras": [
+      [
+       231.548,
+       "It"
+      ],
+      [
+       231.734,
+       "adjusts"
+      ],
+      [
+       232.186,
+       "the"
+      ],
+      [
+       232.425,
+       "rotor"
+      ],
+      [
+       232.771,
+       "excitation"
+      ],
+      [
+       233.382,
+       "to"
+      ],
+      [
+       233.568,
+       "change"
+      ],
+      [
+       233.967,
+       "the"
+      ],
+      [
+       234.206,
+       "electrical"
+      ],
+      [
+       234.817,
+       "response"
+      ],
+      [
+       235.322,
+       "of"
+      ],
+      [
+       235.508,
+       "the"
+      ],
+      [
+       235.747,
+       "generator"
+      ],
+      [
+       236.306,
+       "and"
+      ],
+      [
+       236.545,
+       "support"
+      ],
+      [
+       236.997,
+       "the"
+      ],
+      [
+       237.236,
+       "voltage"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e08_4.wav",
+     "ini": 239.428,
+     "fin": 242.969,
+     "dur": 3.541,
+     "ppm": 169,
+     "cortes": [
+      {
+       "ini": 239.428,
+       "texto": "Its action is limited",
+       "fin": 240.753
+      },
+      {
+       "ini": 240.753,
+       "texto": "by the capability of the machine.",
+       "fin": 242.969
+      }
+     ],
+     "palabras": [
+      [
+       239.428,
+       "Its"
+      ],
+      [
+       239.691,
+       "action"
+      ],
+      [
+       240.131,
+       "is"
+      ],
+      [
+       240.336,
+       "limited"
+      ],
+      [
+       240.833,
+       "by"
+      ],
+      [
+       241.038,
+       "the"
+      ],
+      [
+       241.302,
+       "capability"
+      ],
+      [
+       241.975,
+       "of"
+      ],
+      [
+       242.18,
+       "the"
+      ],
+      [
+       242.444,
+       "machine"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e08_5.wav",
+     "ini": 244.048,
+     "fin": 250.248,
+     "dur": 6.2,
+     "ppm": 155,
+     "cortes": [
+      {
+       "ini": 244.048,
+       "texto": "The governor and the excitation system",
+       "fin": 246.242
+      },
+      {
+       "ini": 246.242,
+       "texto": "perform different functions,",
+       "fin": 247.94
+      },
+      {
+       "ini": 247.94,
+       "texto": "although they work within the same system.",
+       "fin": 250.248
+      }
+     ],
+     "palabras": [
+      [
+       244.051,
+       "The"
+      ],
+      [
+       244.294,
+       "governor"
+      ],
+      [
+       244.808,
+       "and"
+      ],
+      [
+       245.052,
+       "the"
+      ],
+      [
+       245.295,
+       "excitation"
+      ],
+      [
+       245.917,
+       "system"
+      ],
+      [
+       246.322,
+       "perform"
+      ],
+      [
+       246.782,
+       "different"
+      ],
+      [
+       247.35,
+       "functions"
+      ],
+      [
+       248.02,
+       "although"
+      ],
+      [
+       248.483,
+       "they"
+      ],
+      [
+       248.752,
+       "work"
+      ],
+      [
+       249.02,
+       "within"
+      ],
+      [
+       249.386,
+       "the"
+      ],
+      [
+       249.605,
+       "same"
+      ],
+      [
+       249.874,
+       "system"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "ini": 254.5,
+   "fin": 285,
+   "holgura": 6.0,
+   "frases": [
+    {
+     "archivo": "audio/voz_en/e09_1.wav",
+     "ini": 255.5,
+     "fin": 262.234,
+     "dur": 6.734,
+     "ppm": 125,
+     "cortes": [
+      {
+       "ini": 255.5,
+       "texto": "Water supplies energy, the turbine produces motion",
+       "fin": 259.124
+      },
+      {
+       "ini": 259.124,
+       "texto": "and the generator converts it into electricity.",
+       "fin": 262.234
+      }
+     ],
+     "palabras": [
+      [
+       255.509,
+       "Water"
+      ],
+      [
+       255.942,
+       "supplies"
+      ],
+      [
+       256.575,
+       "energy"
+      ],
+      [
+       257.412,
+       "the"
+      ],
+      [
+       257.681,
+       "turbine"
+      ],
+      [
+       258.189,
+       "produces"
+      ],
+      [
+       258.756,
+       "motion"
+      ],
+      [
+       259.204,
+       "and"
+      ],
+      [
+       259.473,
+       "the"
+      ],
+      [
+       259.741,
+       "generator"
+      ],
+      [
+       260.368,
+       "converts"
+      ],
+      [
+       260.936,
+       "it"
+      ],
+      [
+       261.145,
+       "into"
+      ],
+      [
+       261.473,
+       "electricity"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e09_2.wav",
+     "ini": 263.108,
+     "fin": 266.858,
+     "dur": 3.75,
+     "ppm": 144,
+     "cortes": [
+      {
+       "ini": 263.108,
+       "texto": "Transformers make it possible",
+       "fin": 264.843
+      },
+      {
+       "ini": 264.843,
+       "texto": "to transmit and distribute it.",
+       "fin": 266.858
+      }
+     ],
+     "palabras": [
+      [
+       263.122,
+       "Transformers"
+      ],
+      [
+       263.882,
+       "make"
+      ],
+      [
+       264.191,
+       "it"
+      ],
+      [
+       264.388,
+       "possible"
+      ],
+      [
+       264.923,
+       "to"
+      ],
+      [
+       265.12,
+       "transmit"
+      ],
+      [
+       265.655,
+       "and"
+      ],
+      [
+       265.908,
+       "distribute"
+      ],
+      [
+       266.555,
+       "it"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e09_3.wav",
+     "ini": 267.659,
+     "fin": 271.374,
+     "dur": 3.715,
+     "ppm": 113,
+     "cortes": [
+      {
+       "ini": 267.659,
+       "texto": "Controls and protection",
+       "fin": 269.257
+      },
+      {
+       "ini": 269.257,
+       "texto": "keep operation within limits.",
+       "fin": 271.374
+      }
+     ],
+     "palabras": [
+      [
+       267.675,
+       "Controls"
+      ],
+      [
+       268.294,
+       "and"
+      ],
+      [
+       268.588,
+       "protection"
+      ],
+      [
+       269.337,
+       "keep"
+      ],
+      [
+       269.696,
+       "operation"
+      ],
+      [
+       270.38,
+       "within"
+      ],
+      [
+       270.869,
+       "limits"
+      ]
+     ]
+    },
+    {
+     "archivo": "audio/voz_en/e09_4.wav",
+     "ini": 272.995,
+     "fin": 278.997,
+     "dur": 6.002,
+     "ppm": 180,
+     "cortes": [
+      {
+       "ini": 272.995,
+       "texto": "Understanding the plant means following that whole chain,",
+       "fin": 276.281
+      },
+      {
+       "ini": 276.281,
+       "texto": "from the water resource",
+       "fin": 277.544
+      },
+      {
+       "ini": 277.544,
+       "texto": "to the needs of the user.",
+       "fin": 278.997
+      }
+     ],
+     "palabras": [
+      [
+       272.995,
+       "Understanding"
+      ],
+      [
+       273.751,
+       "the"
+      ],
+      [
+       273.985,
+       "plant"
+      ],
+      [
+       274.324,
+       "means"
+      ],
+      [
+       274.663,
+       "following"
+      ],
+      [
+       275.21,
+       "that"
+      ],
+      [
+       275.496,
+       "whole"
+      ],
+      [
+       275.835,
+       "chain"
+      ],
+      [
+       276.361,
+       "from"
+      ],
+      [
+       276.629,
+       "the"
+      ],
+      [
+       276.847,
+       "water"
+      ],
+      [
+       277.163,
+       "resource"
+      ],
+      [
+       277.624,
+       "to"
+      ],
+      [
+       277.794,
+       "the"
+      ],
+      [
+       278.013,
+       "needs"
+      ],
+      [
+       278.329,
+       "of"
+      ],
+      [
+       278.498,
+       "the"
+      ],
+      [
+       278.717,
+       "user"
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "resumen": {
+  "palabras": 465,
+  "segundos_de_voz": 187.3,
+  "ppm_solo_voz": 149,
+  "ppm_con_pausas_entre_frases": 134
+ }
+}

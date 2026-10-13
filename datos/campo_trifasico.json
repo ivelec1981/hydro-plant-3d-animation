@@ -1,0 +1,12 @@
+{
+ "descripcion": "Suma de las tres contribuciones fundamentales de fase, caso ideal equilibrado, unidades normalizadas (F_pk = 1).",
+ "error_maximo_frente_a_1_5_cos": 1.7486012637846216e-15,
+ "amplitud_resultante_min": 1.4999965698196984,
+ "amplitud_resultante_max": 1.4999965698197002,
+ "amplitud_de_cada_fase_en_su_eje": 1.0,
+ "giro_del_maximo_por_ciclo_electrico_rad": 6.283185307179586,
+ "pares_de_polos": 10,
+ "ciclos_electricos_por_vuelta": 10,
+ "velocidad_del_campo_rpm": 360.0,
+ "alcance": "Solo la componente fundamental; no representa armónicos espaciales, ranurado ni saturación. La representación de la animación (un par de polos) es equivalente; en la máquina de 20 polos θe = 10·θm."
+}
