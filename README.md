@@ -2,7 +2,9 @@
 
 A 3D educational animation of a hydroelectric plant with a Pelton turbine and a synchronous generator, generated entirely by code: no 3D software, no third-party models, images or recordings.
 
-**[Download the 90-second video (MP4, 1080p)](https://github.com/ivelec1981/hydro-plant-3d-animation/releases/latest)**
+**[Download the 90-second video (MP4, 1080p)](https://github.com/ivelec1981/hydro-plant-3d-animation/releases/tag/v1.0)**
+
+**New: [Load angle, studio version (87 s, MP4, 1080p, subtitled)](https://github.com/ivelec1981/hydro-plant-3d-animation/releases/tag/load-angle-v1.0)**: why the generator delivers more power without turning faster. See [Load angle](#load-angle-studio-version) below.
 
 It follows the whole chain: reservoir and net head, penstock, nozzle and jet, Pelton runner, salient-pole generator, the rotating field of a stator that does not move, synchronisation, step-up transformer, transmission and distribution. The full timeline (about 5 minutes, rendered from this code) also includes two simulated tests: frequency response of an isolated system (governor) and voltage response on a finite-impedance grid (AVR).
 
@@ -38,6 +40,15 @@ Step-by-step commands are in [LEEME.md](LEEME.md) (in Spanish, the working langu
 - The physics checks are listed in `entregables/Datos_e_hipotesis.md` (for example, the steady-state primary frequency deviation matches the droop value, and the three phase contributions add up to a rotating wave of constant amplitude).
 - The narration is synthetic. Word-level timings for the English voice are estimated, so labels may lead or lag the spoken word by a few tenths of a second.
 - Known issue: in scene 4 of the full timeline, the brightness of two stator phase groups is swapped with respect to the pole positions. The rotating-field insert uses the correct assignment.
+
+## Load angle (studio version)
+
+A second video, suggested by Luis Manuel Dután Amay. The same 20-pole generator, connected to a 60 Hz grid, goes from 20 to 23 MW. The rotor speeds up by less than a tenth of a revolution per minute for a moment, the load angle δ swings and settles from 30° to 35.1°, and the machine returns to 360 rpm. With a weaker connection, the same 23 MW need about 46°.
+
+- Model: classical single-machine infinite bus (fixed excitation, saliency neglected), illustrative parameters. Every frame reads its state from the simulated time series; nothing is animated by hand.
+- Rendered with the same WebGL2 engine. The scene code for this video is not yet in this repository.
+- Voice: Chatterbox (Resemble AI, MIT licence), English, with burned-in subtitles.
+- Visual style inspired by a short AI-generated clip; no image from it is used.
 
 ## Credits and licences
 
