@@ -4,7 +4,9 @@ A 3D educational animation of a hydroelectric plant with a Pelton turbine and a 
 
 **[Download the 90-second video (MP4, 1080p)](https://github.com/ivelec1981/hydro-plant-3d-animation/releases/tag/v1.0)**
 
-**New: [Load angle, studio version (87 s, MP4, 1080p, subtitled)](https://github.com/ivelec1981/hydro-plant-3d-animation/releases/tag/load-angle-v1.0)**: why the generator delivers more power without turning faster. See [Load angle](#load-angle-studio-version) below.
+**New: [Short circuit and the equal area criterion (95 s, MP4, 1080p, subtitled)](https://github.com/ivelec1981/hydro-plant-3d-animation/releases/tag/short-circuit-v1.0)**: why clearing a fault 0.1 s later can make a generator lose synchronism. See [Short circuit](#short-circuit-equal-area-criterion) below.
+
+**[Load angle, studio version (87 s, MP4, 1080p, subtitled)](https://github.com/ivelec1981/hydro-plant-3d-animation/releases/tag/load-angle-v1.0)**: why the generator delivers more power without turning faster. See [Load angle](#load-angle-studio-version) below.
 
 It follows the whole chain: reservoir and net head, penstock, nozzle and jet, Pelton runner, salient-pole generator, the rotating field of a stator that does not move, synchronisation, step-up transformer, transmission and distribution. The full timeline (about 5 minutes, rendered from this code) also includes two simulated tests: frequency response of an isolated system (governor) and voltage response on a finite-impedance grid (AVR).
 
@@ -49,6 +51,17 @@ A second video, suggested by Luis Manuel Dután Amay. The same 20-pole generator
 - Rendered with the same WebGL2 engine. The scene code for this video is not yet in this repository.
 - Voice: Chatterbox (Resemble AI, MIT licence), English, with burned-in subtitles.
 - Visual style inspired by a short AI-generated clip; no image from it is used.
+
+## Short circuit (equal area criterion)
+
+A third video that continues the load angle one, with the same generator and grid. At 23 MW and δ = 35.1°, the generator feeds the grid through two parallel lines. A bolted three-phase fault on one line, right next to the plant, leaves it unable to deliver power. The turbine keeps pushing, so the rotor speeds up (accelerating area A1). When the faulted line opens, the grid brakes the rotor (decelerating area A2).
+
+- Cleared in 100 ms: δ peaks at about 80° when A2 equals A1, then swings around 46°. The machine stays in step.
+- Cleared in 200 ms: the available braking area is too small, δ passes 134° and the machine loses synchronism.
+- Critical clearing: 56.9°, or 168 ms (about 10 cycles) from the equal area criterion. The simulation with light damping (D = 1 pu) gives 172 ms.
+- Checks: A1 = A2 at the peak with D = 0, to within 0.00001 %. The analytic and simulated critical times agree to within 0.01 ms. RK4 agrees with a half step and with solve_ivp (DOP853).
+- Model limits: classical model, illustrative parameters. Fixed excitation, no governor, AVR or PSS. Both ends of the line open at once, with no reclosing. Out-of-step protection is mentioned but not simulated.
+- The scene code for this video is not yet in this repository.
 
 ## Credits and licences
 
